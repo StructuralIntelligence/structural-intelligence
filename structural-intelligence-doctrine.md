@@ -2,11 +2,7 @@
 
 ## The Architecture of Everything
 
-*The parent field. The universe. The governing ontology above every structured domain.*  
-*View the [Ten Commandments of Structural Intelligence](ten-commandments.md)*
-
----
-
+*View the <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>*
 ## I. Field definition
 
 Structural Intelligence™ is the architecture of everything.
