@@ -79,11 +79,9 @@ The world is full of complexity, pressure, and constant change. People who under
 ## Next Steps in the Framework
 
 Ready to explore further? Check out these core resources:
-* 📘 [Field Origin](origin.html)
-* ➡️ [Start Here](start-here.html)
-* 📦 [Full Inventory](full-inventory.html)
-
----
+* 📘 <a href="https://structuralintelligence.llc/origin" target="_blank" rel="noopener">Field Origin</a>
+* ➡️ <a href="https://structuralintelligence.llc/start-here" target="_blank" rel="noopener">Start Here</a>
+* 📦 <a href="https://structuralintelligence.llc/full-inventory" target="_blank" rel="noopener">Full Inventory</a>---
 
 ### Structural Intelligence Publications
 [Explore All Structural Intelligence Books on Amazon](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)  
