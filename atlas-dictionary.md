@@ -94,27 +94,27 @@ Published by **Structural Intelligence LLC**.
 
 ## Access the Atlas Dictionary
 
-Amazon Edition:
+* 🌐 <a href="https://structuralintelligence.llc/atlas-dictionary" target="_blank" rel="noopener">Official Website Portal: Atlas Dictionary</a>
 
-https://www.amazon.com/dp/B0GMWVVWL9
+* 📚 <a href="https://www.amazon.com/dp/B0GMWVVWL9" target="_blank" rel="noopener">Amazon Edition (Hardcover & Kindle)</a>
 
 ---
 
 ## Related Documents
 
-* 📘 What Is Structural Intelligence?
+* 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* ⚖️ Ten Commandments of Structural Intelligence
+* ⚖️ [Ten Commandments of Structural Intelligence](ten-Commandments.md)
 
-* 📖 Structural Intelligence Doctrine (SI = No SI)
+* 📖 [Structural Intelligence Doctrine (SI = No SI)](si-no-si-book-1.md)
 
-* 🌐 https://structuralintelligence.llc
+* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
 
 ---
 
 ## Structural Intelligence Publications
 
-https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8
+<a href="https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8" target="_blank" rel="noopener">https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8</a>
 
 Sentinel Safety Manuals • Atlas Dictionary • Self‑Help & Clarity Guides
 

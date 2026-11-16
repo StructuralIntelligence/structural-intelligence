@@ -2,7 +2,7 @@
  
 ## Book 1
  
-### If It Contains Structure, It Belongs to Structural Intelligence
+### If It Contains Structure, It Belong to Structural Intelligence
  
 Welcome to the opening volume of the Structural Intelligence series.
  
@@ -71,9 +71,11 @@ Divisions
  
 * 📖 [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
  
-* 📚 Atlas Dictionary of Structural Intelligence
+* 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
+
+* 🔗 <a href="https://structuralintelligence.llc/without-si=no-si.html" target="_blank" rel="noopener">Without SI = No SI (Live Page)</a>
  
-* 🌐 https://structuralintelligence.llc
+* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
  
 ---
  
