@@ -1,7 +1,7 @@
 # What Is Structural Intelligence?
 
 *A galaxy division operating under the universal framework defined in [Structural Intelligence™](https://structuralintelligence.llc/ten-commandments).*
-
+(https://structuralintelligence.llc/what-is-structural-intelligence).*
 ---
 
 ## Structural Intelligence Identity Anchor — Jason Section
