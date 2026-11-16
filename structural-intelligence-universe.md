@@ -85,13 +85,6 @@ The Structural Intelligence Universe exists to:
 * 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
 ---
 
-## Related Documents
-
-* 📘 What Is Structural Intelligence?
-* ⚖️ Ten Commandments of Structural Intelligence
-* 📖 Structural Intelligence Doctrine
-* 📚 Atlas Dictionary of Structural Intelligence
-* 📘 SI = No SI
 
 ---
 
