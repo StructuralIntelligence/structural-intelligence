@@ -114,7 +114,7 @@ Together they create continuity across generations.
 
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* ⚖️ [Ten Commandments of Structural Intelligence](ten-commandments.md)
+* ⚖️ <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>
 
 * 📖 [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 
