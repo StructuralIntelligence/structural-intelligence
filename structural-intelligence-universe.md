@@ -78,15 +78,11 @@ The Structural Intelligence Universe exists to:
 
 * ⚖️ <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>
 
-* 📖 <a href="https://structuralintelligence.llc/structural-intelligence-doctrine" target="_blank" rel="noopener">Structural Intelligence Doctrine</a>
-
-* 📘 <a href="https://structuralintelligence.llc/without-si=no-si.html" target="_blank" rel="noopener">SI = No SI — Book 1</a>
+* 📖 <a href="https://structuralintelligence.llc/structural-intelligence" target="_blank" rel="noopener">Structural Intelligence Doctrine</a>
 
 * 📚 <a href="https://structuralintelligence.llc/atlas-dictionary" target="_blank" rel="noopener">Atlas Dictionary of Structural Intelligence</a>
 
 * 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
-© 2026 Structural Intelligence LLC — Zenith Division
-
 ---
 
 ## Related Documents
