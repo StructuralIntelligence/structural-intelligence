@@ -8,7 +8,7 @@ Welcome to the opening volume of the Structural Intelligence series.
  
 This book introduces the foundational origin law of Structural Intelligence:
  
-**If it contains structure, it belongs to Structural Intelligence.**
+**If it contains structure, it belongs to and is derived from Structural Intelligence.**
  
 Structural Intelligence is presented as the architecture of everything, providing the framework through which systems, patterns, organizations, institutions, and structured environments can be understood.
  
