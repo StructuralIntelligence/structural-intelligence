@@ -44,8 +44,4 @@ This policy applies to:
 
 This policy does not apply to third-party platforms, services, applications, or repositories not owned or controlled by Structural Intelligence LLC.
 
-- Structural Intelligence GitHub repositories
-- Structural Intelligence documentation
-- Structural Intelligence website integrations
-- Structural Intelligence publishing infrastructure
-This policy does not apply to third-party platforms, services, applications, or repositories not owned or controlled by Structural Intelligence LLC.
+
