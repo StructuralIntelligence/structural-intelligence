@@ -21,7 +21,7 @@ If you discover a security issue involving:
 
 Please report it privately to:
 
-contact@structuralintelligence.llc
+scott.ops@sillc.biz
 
 Please include:
 
