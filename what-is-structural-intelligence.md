@@ -41,7 +41,7 @@ Everything in life has a structure behind it. Atoms, bridges, ecosystems, famili
 
 To see how structural intelligence maps across existence, record history through core rings, and branches into preservation or extraction pathways, explore the canonical visual model:
 
-➡️ **[Explore the Tree of Structural Intelligence & Circular Model](./the tree-of-structural-intelligence.md)**
+➡️ **[Explore the Tree of Structural Intelligence & Circular Model](./tree-of-structural-intelligence.md)**
 
 ---
 
