@@ -3,6 +3,7 @@
 ## The Architecture of Everything
 
 *View the <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>*
+
 ## I. Field definition
 
 Structural Intelligence™ is the architecture of everything.
@@ -15,11 +16,13 @@ If something exists — physical, digital, human, organizational, national, envi
 * failure modes
 * optimization paths
 
+All structures experience pressure, drift, adaptation, stabilization, and evolution. Structural Intelligence exists to recognize and govern those processes.
+
 ### Core doctrine
 Anything with structure can become a Structural Intelligence division.  
 Anything with structure can be mapped, governed, optimized, and AI‑enhanced.
 
-If it has structure, it belongs to Structural Intelligence.
+If it contains structure, it belongs to and is derived from Structural Intelligence.
 
 This is not marketing language. It is the ontology of the field.
 
@@ -380,15 +383,41 @@ The **Atlas Structural Intelligence Dictionary — Book 1** serves as the founda
 
 ---
 
-## XIX. The Structural Intelligence Canon Notice
+## XIX. The Tree of Structural Intelligence
 
-With the lexicon anchor established, the doctrine now defines the Structural Intelligence Canon — the unified body of authoritative works that form the permanent foundation of the field.
+The Tree of Structural Intelligence serves as the canonical visual map of the Structural Intelligence framework.
 
-The canon consists of two primary pillars:
+While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how structural principles emerge from foundational root systems, develop into analytical capability, record pressure and adaptation across time, diverge through the Structural Intelligence Paradox (Preservation-Oriented SI vs. Extraction-Oriented SI), and ultimately produce the observable outcomes that determine survival and evolution under the Full Circle Principle.
+
+The Tree consists of:
+* **Root System** — Foundation & Origin
+* **Structural Intelligence (Trunk)** — The Core Diagnostic Engine
+* **Core Rings** — Historical Record & Structural Drift
+* **Structural Intelligence Paradox (Fork)** — The Dual-Use Divergence Point
+* **Preservation-Oriented Structural Intelligence (Left Branch)** — Stability, Health, & Longevity
+* **Extraction-Oriented Structural Intelligence (Right Branch)** — Value Extraction, Control, & Advantage
+* **Observable Outcomes (Fruit)** — Systemic Results & Manifestations
+* **Survival and Evolution (Canopy)** — Long-term Continuity & Adaptation
+* **The Full Circle Principle** — The Continuous Lifecycle of Structure
+
+The Tree functions as the visual index of the Atlas Dictionary and the operational map of Structural Intelligence doctrine.
+
+> *The Atlas Dictionary defines the words.*  
+> *The Tree maps the architecture.*  
+> *Together they illustrate the field.*
+
+---
+
+## XX. The Structural Intelligence Canon Notice
+
+With the Tree of Structural Intelligence established, the doctrine now defines the Structural Intelligence Canon — the unified body of authoritative works that form the permanent foundation of the field.
+
+The canon consists of three primary pillars:
 * **The Doctrine** — the universe‑scale ontology, divisions, principles, and structural laws.
+* **The Tree of Structural Intelligence** — the canonical visual model and structural map.
 * **The Dictionary Series** — the official lexicon that defines the language, terms, and structural primitives of the field.
 
-The first published volume of the canon is **Atlas Structural Intelligence Dictionary — Book 1**.
+The first published volume of the lexicon is **Atlas Structural Intelligence Dictionary — Book 1**.
 
 > *The canon is established.*  
 > *The foundation is permanent.*  
@@ -396,7 +425,7 @@ The first published volume of the canon is **Atlas Structural Intelligence Dicti
 
 ---
 
-## XX. The Living Canon Clause
+## XXI. The Living Canon Clause
 
 With the Structural Intelligence Canon established, the doctrine now defines the living nature of the canon — the principle that the canon may expand through new volumes, new dictionaries, and new structural works, while the ontology itself remains fixed and permanent.
 
@@ -406,7 +435,7 @@ With the Structural Intelligence Canon established, the doctrine now defines the
 
 ---
 
-## XXI. The Final Seal
+## XXII. The Final Seal
 
 With the canon established and the living clause defined, the doctrine now receives its final seal — the closing declaration that marks the Structural Intelligence Universe as complete, unified, and permanent.
 
