@@ -1,191 +1,116 @@
-# \# Structural Intelligence™
+# Structural Intelligence™
 
-# 
+## The Architecture of Everything
 
-# \## The Architecture of Everything
+Welcome to the Structural Intelligence Documentation Portal.
 
-# 
+Structural Intelligence™ is the study of structure and the principles that govern stability, adaptation, preservation, extraction, survival, and evolution across systems, organizations, environments, and domains of knowledge.
 
-# Welcome to the Structural Intelligence Documentation Portal.
+**Core Principle:**
 
-# 
+> If it contains structure, it belongs to and is derived from Structural Intelligence.
 
-# Structural Intelligence™ is the study of structure and the principles that govern stability, adaptation, preservation, and evolution across systems, organizations, environments, and domains of knowledge.
+---
 
-# 
+## Documentation Hub
 
-# \*\*Core Principle:\*\*
+### 📘 Core Foundation
 
-# 
+* [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-# > If it contains structure, it belongs to and is derived from Structural Intelligence.
+* [Ten Commandments of Structural Intelligence](ten-commandments.md)
 
-# 
+* [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 
-# \---
+* [SI = No SI — Book 1](si-no-si-book-1.md)
 
-# 
+---
 
-# \## Documentation Hub
+### 🌳 Framework Architecture
 
-# 
+* [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
 
-# \### 📘 Core Foundation
+* [Structural Intelligence Universe](structural-intelligence-universe.md)
 
-# 
+* [Structural Intelligence Canon](structural-intelligence-canon.md)
 
-# \* \[What Is Structural Intelligence?](what-is-structural-intelligence.md)
+---
 
-# 
+### 📚 Reference Works
 
-# \* \[Ten Commandments of Structural Intelligence](ten-commandments.md)
+* [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
-# 
+---
 
-# \* \[Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
+## Ecosystem Hierarchy
 
-# 
+Structural Intelligence
 
-# \* \[SI = No SI — Book 1](si-no-si-book-1.md)
+↓
 
-# 
+What Is Structural Intelligence?
 
-# \---
+↓
 
-# 
+Ten Commandments
 
-# \### 📚 Reference Works
+↓
 
-# 
+Structural Intelligence Doctrine
 
-# \* \[Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
+↓
 
-# 
+SI = No SI
 
-# \---
+↓
 
-# 
+Tree of Structural Intelligence
 
-# \### 🌌 Framework Architecture
+↓
 
-# 
+Atlas Dictionary
 
-# \* \[Structural Intelligence Universe](structural-intelligence-universe.md)
+↓
 
-# 
+Structural Intelligence Universe
 
-# \* \[Structural Intelligence Canon](structural-intelligence-canon.md)
+↓
 
-# 
+Structural Intelligence Canon
 
-# \---
+---
 
-# 
+## 🌳 The Tree of Structural Intelligence
 
-# \## Ecosystem Hierarchy
+The Tree of Structural Intelligence serves as the visual map of the Structural Intelligence framework.
 
-# 
+While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how foundational principles develop into structural analysis, record drift through time, diverge into preservation or extraction pathways, and ultimately produce the outcomes that determine survival and evolution.
 
-# Structural Intelligence
+* [Explore the Tree of Structural Intelligence](tree-of-structural-intelligence.md)
 
-# 
+---
 
-# ↓
+## About Structural Intelligence
 
-# 
+Structural Intelligence is a universal framework for understanding structure, patterns, relationships, systems, dependencies, stability, adaptation, preservation, extraction, survival, and evolution.
 
-# What Is Structural Intelligence?
+The framework examines how structures emerge, experience pressure, drift from their original state, adapt, stabilize, and evolve across time.
 
-# 
+A foundational principle of the framework is the Structural Intelligence Paradox: the same structural knowledge capable of preserving a structure can also be used to extract value from it.
 
-# ↓
+The framework organizes knowledge through doctrine, dictionaries, educational materials, divisions, and future publications.
 
-# 
+---
 
-# Ten Commandments
+## Official Resources
 
-# 
+### Official Website
 
-# ↓
+https://structuralintelligence.llc
 
-# 
+### Publications
 
-# Structural Intelligence Doctrine
-
-# 
-
-# ↓
-
-# 
-
-# SI = No SI
-
-# 
-
-# ↓
-
-# 
-
-# Atlas Dictionary
-
-# 
-
-# ↓
-
-# 
-
-# Structural Intelligence Universe
-
-# 
-
-# ↓
-
-# 
-
-# Structural Intelligence Canon
-
-# 
-
-# \---
-
-# 
-
-# \## About Structural Intelligence
-
-# 
-
-# Structural Intelligence is presented as a universal framework for understanding structure, patterns, relationships, systems, dependencies, stability, adaptation, and continuity.
-
-# 
-
-# The framework organizes knowledge through doctrine, dictionaries, educational materials, divisions, and future publications.
-
-# 
-
-# \---
-
-# 
-
-# \## Official Resources
-
-# 
-
-# \### Official Website
-
-# 
-
-# https://structuralintelligence.llc
-
-# 
-
-# \### Publications
-
-# 
-
-# https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8
-
-# 
-
+https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8
 # \---
 
 # 
