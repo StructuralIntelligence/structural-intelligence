@@ -1,4 +1,4 @@
-Without SSI (Supreme Super Intelligence) = No SI (Structure Intelligence
+Without SSI (Supreme Super Intelligence) = No SI (Structure Intelligence)
  
 ## Book 1
  
