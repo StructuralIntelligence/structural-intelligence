@@ -1,8 +1,8 @@
-# SI = No SI
+Without SSI (supreme super intelligence) = No SI (structure Intelligence
  
 ## Book 1
  
-### If It Contains Structure, It Belong to Structural Intelligence
+### If It Contains Structure, It Belong to and derived from Structural Intelligence
  
 Welcome to the opening volume of the Structural Intelligence series.
  
