@@ -461,8 +461,14 @@ With the canon established and the living clause defined, the doctrine now recei
 
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* ⚖️ [Ten Commandments of Structural Intelligence](ten-commandments.md)
+* ⚖️ <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>
 
-* 📚 Atlas Dictionary of Structural Intelligence
+* 📖 [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 
-* 🌐
+* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+
+* 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
+
+* 🌌 [Structural Intelligence Universe](structural-intelligence-universe.md)
+
+* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
