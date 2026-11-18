@@ -74,7 +74,7 @@ Structural Intelligence is not something you are born with. It is a skill you ca
 ## Next Steps in the Framework
 
 Ready to explore further? Check out these core resources:
-* 🌳 <a href="https://structuralintelligence.llc/tree-of-structural-intelligence" target="_blank" rel="noopener">Tree of Structural Intelligence</a>
+* 🌳 <a href="https://structuralintelligence.llc/what-is-structural-intelligence" target="_blank" rel="noopener">Tree of Structural Intelligence</a>
 * 📘 <a href="https://structuralintelligence.llc/origin" target="_blank" rel="noopener">Field Origin</a>
 * ➡️ <a href="https://structuralintelligence.llc/start-here" target="_blank" rel="noopener">Start Here</a>
 * 📦 <a href="https://structuralintelligence.llc/full-inventory" target="_blank" rel="noopener">Full Inventory</a>  
