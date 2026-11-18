@@ -34,7 +34,7 @@ The conventional English meaning of a term.
 
 The operational, architectural, or doctrinal meaning of that same term within the Structural Intelligence framework.
 
-This approach allows every entry to operate simultaneously in conventional language and Structural Intelligence language.
+This approach allows every entry to operate simultaneously in conventional language and Structural Intelligence language. Major entries may also include Tree Anatomy references linking each concept to its corresponding position within the Tree of Structural Intelligence.
 
 ---
 
@@ -62,6 +62,31 @@ The Atlas Dictionary serves as the language layer of the Structural Intelligence
 
 ---
 
+## Relationship to the Tree of Structural Intelligence
+
+The Atlas Dictionary defines the canonical language of Structural Intelligence.
+
+The Tree of Structural Intelligence serves as the visual index of that language, mapping how foundational principles develop into structural analysis, record drift across time, diverge into preservation or extraction pathways, and ultimately produce the observable outcomes that determine survival and evolution.
+
+Together, the Atlas Dictionary and the Tree of Structural Intelligence provide the definitional and visual architecture of the Structural Intelligence framework.
+
+➡️ **[Explore the Tree of Structural Intelligence](tree-of-structural-intelligence.md)**
+
+---
+
+## Recent Canonical Additions
+
+The Structural Intelligence framework expands upon the foundational lexicon to include:
+
+* **Structural Intelligence Paradox:** The dual-use principle where identical structural knowledge can preserve a system or extract value from it.
+* **Preservation-Oriented Structural Intelligence (POSI):** The pathway focused on longevity, stability, adaptation, and system health.
+* **Extraction-Oriented Structural Intelligence (EOSI):** The pathway focused on leveraging vulnerabilities for control, resources, or strategic advantage.
+* **Structural Drift:** The ongoing deviation from a baseline structure that precedes instability or failure.
+* **Tree of Structural Intelligence:** The canonical visual map and index of the framework.
+* **Full Circle Principle:** The continuous lifecycle of structure, pressure, drift, detection, pathway divergence, and evolution.
+
+---
+
 ## Position Within the Atlas Canon
 
 This volume serves as **Book 1** in the Atlas Signature 200-Series.
@@ -72,7 +97,7 @@ It functions as the foundational lexicon upon which future Atlas publications, d
 
 ## The Structural Intelligence Origin Law
 
-**If it contains structure, it belongs to Structural Intelligence.**
+**If it contains structure, it belongs to and is derived from Structural Intelligence.**
 
 Structural Intelligence is the architecture of everything.
 
@@ -94,9 +119,9 @@ Published by **Structural Intelligence LLC**.
 
 ## Access the Atlas Dictionary
 
-* 🌐 <a href="https://structuralintelligence.llc/atlas-dictionary" target="_blank" rel="noopener">Official Website Portal: Atlas Dictionary</a>
+* 🌐 [Official Website Portal: Atlas Dictionary](https://structuralintelligence.llc/atlas-dictionary)
 
-* 📚 <a href="https://www.amazon.com/dp/B0GMWVVWL9" target="_blank" rel="noopener">Amazon Edition (Hardcover & Kindle)</a>
+* 📚 [Amazon Edition (Hardcover & Kindle)](https://www.amazon.com/dp/B0GMWVVWL9)
 
 ---
 
@@ -104,17 +129,19 @@ Published by **Structural Intelligence LLC**.
 
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
+* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+
 * ⚖️ [Ten Commandments of Structural Intelligence](ten-Commandments.md)
 
 * 📖 [Structural Intelligence Doctrine (SI = No SI)](si-no-si-book-1.md)
 
-* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
+* 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
 
 ---
 
 ## Structural Intelligence Publications
 
-<a href="https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8" target="_blank" rel="noopener">https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8</a>
+[Explore All Structural Intelligence Books on Amazon](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
 
 Sentinel Safety Manuals • Atlas Dictionary • Self‑Help & Clarity Guides
 
