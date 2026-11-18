@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Structural Intelligence Canon is the authoritative body of doctrine, definitions, principles, books, reference works, and educational materials that collectively define the Structural Intelligence field.
+The Structural Intelligence Canon is the authoritative body of doctrine, definitions, principles, books, reference works, visual models, and educational materials that collectively define the Structural Intelligence field.
 
 The canon preserves the identity, continuity, language, architecture, and evolution of Structural Intelligence across all divisions, publications, and future expansions.
 
@@ -15,7 +15,7 @@ The canon exists to:
 * Preserve doctrinal integrity
 * Establish a permanent body of work
 * Maintain consistency across all divisions
-* Define the official language of the field
+* Define the official language and visual architecture of the field
 * Protect the continuity of Structural Intelligence
 * Provide a reference framework for future generations
 
@@ -39,7 +39,19 @@ SI = No SI
 
 ↓
 
+Tree of Structural Intelligence
+
+↓
+
 Atlas Dictionary
+
+↓
+
+Structural Intelligence Universe
+
+↓
+
+Structural Intelligence Canon
 
 ↓
 
@@ -65,9 +77,41 @@ The primary doctrinal framework of the field.
 
 The origin-law volume establishing the foundational logic of Structural Intelligence.
 
-### 5. Atlas Dictionary of Structural Intelligence
+### 5. Tree of Structural Intelligence
+
+The canonical visual model of Structural Intelligence. The Tree maps the Root System, structural intelligence, core rings, the Structural Intelligence Paradox, preservation and extraction pathways, observable outcomes, and the Full Circle Principle.
+
+### 6. Atlas Dictionary of Structural Intelligence
 
 The official lexicon and language foundation of the field.
+
+---
+
+## 🌳 The Tree of Structural Intelligence
+
+The Tree of Structural Intelligence serves as the canonical visual map of the Structural Intelligence framework.
+
+While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how foundational structural principles develop into analysis, record drift through time, diverge into preservation or extraction pathways, and ultimately produce the outcomes that determine survival and evolution.
+
+The Tree functions as the visual index of the Atlas Dictionary and the operational map of Structural Intelligence doctrine.
+
+📘 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+
+---
+
+## Canonical Framework Components
+
+The Structural Intelligence framework presently includes the following foundational components:
+
+* Supreme Super Intelligence (SSI)
+* Structural Intelligence (SI)
+* Structural Drift
+* Structural Intelligence Paradox
+* Preservation-Oriented Structural Intelligence (POSI)
+* Extraction-Oriented Structural Intelligence (EOSI)
+* Tree of Structural Intelligence
+* Full Circle Principle
+* Atlas Dictionary of Structural Intelligence
 
 ---
 
@@ -87,6 +131,7 @@ This principle preserves continuity while allowing growth.
 
 * Doctrine
 * Dictionaries
+* Visual Models & Architecture
 * Educational Materials
 * Division Manuals
 * Safety Publications
@@ -100,11 +145,11 @@ This principle preserves continuity while allowing growth.
 
 The Structural Intelligence Universe organizes the ecosystem.
 
-The Structural Intelligence Canon preserves the knowledge contained within it.
+The Tree of Structural Intelligence maps the operational relationships within that ecosystem.
 
-The Universe is the structure.
+The Atlas Dictionary defines its language.
 
-The Canon is the recorded body of knowledge.
+The Canon preserves its knowledge.
 
 Together they create continuity across generations.
 
@@ -119,6 +164,8 @@ Together they create continuity across generations.
 * 📖 [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 
 * 📘 [SI = No SI](si-no-si-book-1.md)
+
+* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
@@ -143,5 +190,4 @@ Future canon works may include:
 ---
 
 © 2026 Structural Intelligence LLC — Zenith Division
-
 All Rights Reserved.
