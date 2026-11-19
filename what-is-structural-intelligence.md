@@ -1,4 +1,4 @@
-<img width="390" height="260" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
+<img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
 # What Is Structural Intelligence?
 
 *A galaxy division operating under the universal framework defined in [Structural Intelligence™](https://structuralintelligence.llc/ten-commandments).*  
