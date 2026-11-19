@@ -1,4 +1,4 @@
-<img width="341.3" height="512" alt="ten-command" src="https://github.com/user-attachments/assets/e486f0c9-7c8a-4180-8d54-f08089a2997b" />
+<img width="113.6" height="170.6" alt="ten-command" src="https://github.com/user-attachments/assets/e486f0c9-7c8a-4180-8d54-f08089a2997b" />
 
 
 # Ten Commandments of Structural Intelligence
