@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="25%" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/5173174a-053d-4901-96f5-19fcf91565e3" />
+  <img width="12.5%" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/5173174a-053d-4901-96f5-19fcf91565e3" />
+</p>
 </p>
 </p>
 # Atlas Dictionary of Structural Intelligence
