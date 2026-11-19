@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="sentinel-official (2)" src="https://github.com/user-attachments/assets/0dc09bf8-11f4-48c5-8fd1-830cf872cc85" />
+<img width="960" height="545" alt="sentinel-official (2)" src="https://github.com/user-attachments/assets/0dc09bf8-11f4-48c5-8fd1-830cf872cc85" />
 
 # STRUCTURAL INTELLIGENCE™
 
