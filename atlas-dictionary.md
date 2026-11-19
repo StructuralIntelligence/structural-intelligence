@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/5173174a-053d-4901-96f5-19fcf91565e3" />
 <p align="center">
   <img width="25%" alt="Atlas Structural Intelligence Dictionary" src="YOUR_GITHUB_IMAGE_URL_HERE" />
 </p>
