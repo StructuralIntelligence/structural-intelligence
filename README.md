@@ -44,22 +44,15 @@ Structural Intelligence™ is the study of structure and the principles that gov
 ## Ecosystem Hierarchy
 
 Structural Intelligence  
-↓  
-What Is Structural Intelligence?  
-↓  
-Ten Commandments  
-↓  
-Structural Intelligence Doctrine  
-↓  
-SI = No SI  
-↓  
-Tree of Structural Intelligence  
-↓  
-Atlas Dictionary  
-↓  
-Structural Intelligence Universe  
-↓  
-Structural Intelligence Canon
+↓
+- What Is Structural Intelligence?
+- Ten Commandments
+- Structural Intelligence Doctrine
+- SI = No SI
+- Tree of Structural Intelligence
+- Atlas Dictionary
+- Structural Intelligence Universe
+- Structural Intelligence Canon
 
 ---
 
