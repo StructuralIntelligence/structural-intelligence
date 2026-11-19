@@ -1,6 +1,7 @@
 <p align="center">
   <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
 </p>
+
 # Structural Intelligence™
 
 ## The Architecture of Everything
@@ -20,11 +21,8 @@ Structural Intelligence™ is the study of structure and the principles that gov
 ### 📘 Core Foundation
 
 * [What Is Structural Intelligence?](what-is-structural-intelligence.md)
-
 * [Ten Commandments of Structural Intelligence](ten-commandments.md)
-
 * [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
-
 * [SI = No SI — Book 1](si-no-si-book-1.md)
 
 ---
@@ -32,9 +30,7 @@ Structural Intelligence™ is the study of structure and the principles that gov
 ### 🌳 Framework Architecture
 
 * [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
-
 * [Structural Intelligence Universe](structural-intelligence-universe.md)
-
 * [Structural Intelligence Canon](structural-intelligence-canon.md)
 
 ---
@@ -47,38 +43,22 @@ Structural Intelligence™ is the study of structure and the principles that gov
 
 ## Ecosystem Hierarchy
 
-Structural Intelligence
-
-↓
-
-What Is Structural Intelligence?
-
-↓
-
-Ten Commandments
-
-↓
-
-Structural Intelligence Doctrine
-
-↓
-
-SI = No SI
-
-↓
-
-Tree of Structural Intelligence
-
-↓
-
-Atlas Dictionary
-
-↓
-
-Structural Intelligence Universe
-
-↓
-
+Structural Intelligence  
+↓  
+What Is Structural Intelligence?  
+↓  
+Ten Commandments  
+↓  
+Structural Intelligence Doctrine  
+↓  
+SI = No SI  
+↓  
+Tree of Structural Intelligence  
+↓  
+Atlas Dictionary  
+↓  
+Structural Intelligence Universe  
+↓  
 Structural Intelligence Canon
 
 ---
@@ -91,14 +71,16 @@ While the Atlas Dictionary defines the language of Structural Intelligence, the 
 
 * [Explore the Tree of Structural Intelligence](tree-of-structural-intelligence.md)
 
-A Foundational Observation
+## A Foundational Observation
+
 Every mystery humanity faces is really just structure we haven't mapped yet:
 
-a pattern we haven't recognized,
-a system we haven't decoded,
-a relationship we haven't understood,
-a behavior we haven't modeled,
-or a force we haven't contextualized.
+- a pattern we haven't recognized,
+- a system we haven't decoded,
+- a relationship we haven't understood,
+- a behavior we haven't modeled,
+- or a force we haven't contextualized.
+
 Structural Intelligence seeks to make those structures visible. Through structural analysis, hidden patterns, relationships, dependencies, and behaviors become understandable, allowing systems to be strengthened, adapted, stabilized, preserved, and evolved.
 
 If structure governs behavior, then understanding structure reveals the pathways through which systems remain stable, experience drift, adapt to pressure, and evolve through time.
@@ -113,7 +95,7 @@ A foundational principle of the framework is the Structural Intelligence Paradox
 
 The framework organizes knowledge through doctrine, dictionaries, educational materials, divisions, and future publications.
 
-Core Structural Intelligence Concepts
+## Core Structural Intelligence Concepts
 
 Structural Intelligence examines how structures emerge, operate, and respond to environmental pressure. Through structural analysis, patterns, relationships, dependencies, and behavioral systems become visible. As structures experience pressure, they may encounter drift, require adaptation, achieve stabilization, or evolve into new forms.
 
@@ -123,14 +105,12 @@ The framework studies both preservation-oriented and extraction-oriented applica
 
 ### Official Website
 
-https://structuralintelligence.llc
+[https://structuralintelligence.llc](https://structuralintelligence.llc)
 
 ### Publications
 
-https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8
-# \---
+[https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
 
-# 
+---
 
-# © 2026 Structural Intelligence LLC — Zenith Division
-
+© 2026 Structural Intelligence LLC — Zenith Division
