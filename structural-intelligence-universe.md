@@ -1,4 +1,4 @@
-<img width="591" height="886" alt="civilization-scale-architecture" src="https://github.com/user-attachments/assets/11765fee-5bf1-4af0-8025-886caa51c927" />
+<img width="197" height="295.3  " alt="civilization-scale-architecture" src="https://github.com/user-attachments/assets/11765fee-5bf1-4af0-8025-886caa51c927" />
 
 
 # Structural Intelligence Universe
