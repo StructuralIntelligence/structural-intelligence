@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
-</p>
+<img width="438" height="700" alt="universal-tree" src="https://github.com/user-attachments/assets/880912a4-5c36-4a39-94b0-e87a8de96ee1" />
+
 
 The Tree of Structural Intelligence
 
