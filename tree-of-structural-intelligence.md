@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
+</p>
+
 The Tree of Structural Intelligence
 
 The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** is its visual
