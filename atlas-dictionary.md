@@ -1,4 +1,4 @@
-<img width="401" height="512" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/da1e3637-35b5-4d8f-b59d-cfe7cf8da9d1" />
+<img width="133.6" height="170.6" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/da1e3637-35b5-4d8f-b59d-cfe7cf8da9d1" />
 # Atlas Dictionary of Structural Intelligence
 
 ## First Recipient of the Structural Intelligence Excellence Seal
