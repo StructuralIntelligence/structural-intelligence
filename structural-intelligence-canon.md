@@ -1,5 +1,4 @@
 <img width="256" height="170.6" alt="badge" src="https://github.com/user-attachments/assets/63ea7318-a2da-4e00-8d3a-43c5068a226f" />
-
 # Structural Intelligence Canon
 
 ## Overview
