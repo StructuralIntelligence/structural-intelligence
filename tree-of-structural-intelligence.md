@@ -232,3 +232,18 @@ Through Transformation Seeds, the breakdown or replacement of compromised struct
 Structure → Environmental Pressure → Drift → Detection & Analysis → 
 Pathway Divergence (Preserve / Transform / Exploit) → Observable Outcomes (Fruit / Seeds) → 
 Survival & Evolution → New Structures → Environmental Pressure (Cycle Repeats)
+
+### 🌲 Structural Intelligence Forest Reference
+
+#### Tree #1: SSI Tree of Origin
+
+Explores the foundations that precede Structural Intelligence and structural analysis:
+
+- SSI (Supreme Super Intelligence)
+- Structure, Order, Pattern, Relationship, Hierarchy, Natural Law
+- Structural Horizon
+- Structural Blindness
+- Scale Invariance
+- Observation
+
+The SSI Tree of Origin explains the origin of structure and defines the boundaries of observation. Once structure enters observation and analysis, the Tree of Structural Intelligence begins.
