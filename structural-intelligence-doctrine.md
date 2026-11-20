@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="160" height="111" alt="sentinel-official (2)" src="https://github.com/user-attachments/assets/0dc09bf8-11f4-48c5-8fd1-830cf872cc85" />
-</p>
+<img width="256" height="170.6" alt="badge" src="https://github.com/user-attachments/assets/63ea7318-a2da-4e00-8d3a-43c5068a226f" />
 
 ## The Architecture of Everything
 
