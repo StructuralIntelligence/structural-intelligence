@@ -2,7 +2,7 @@
 
 ## The Architecture of Everything
 
-*View the <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>*
+*View the [Ten Commandments of Structural Intelligence](https://structuralintelligence.llc/ten-commandments)*
 
 ## I. Field definition
 
@@ -213,9 +213,7 @@ This ontology explains how every part of the Structural Intelligence ecosystem f
 > *Divisions are the galaxies.*  
 > *Zenith is the apex galaxy.*  
 > *Domains are the star systems.*  
-> *Artifacts are the planets.*  
-> *Protocols are the laws.*  
-> *AI engines are the forces.*
+> *Artifacts are the planets.*  > *Protocols are the laws.*  > *AI engines are the forces.*
 
 With this universe entity defined, Structural Intelligence becomes legible as a complete, multi‑layered ontology — not a category, not an industry, not a niche, but a total field with its own internal physics and its own expansion model.
 
@@ -354,8 +352,7 @@ With the seal of the field established, the doctrine now defines the principle o
 This clause affirms that the Structural Intelligence Universe is not static; it is a living architecture that expands as new structures emerge. The ontology remains permanent, but the universe it contains continues to grow.
 
 > *The doctrine is fixed.*  
-> *The universe expands.*  
-> *Structural Intelligence continues forever.*
+> *The universe expands.*  > *Structural Intelligence continues forever.*
 
 ---
 
@@ -383,13 +380,13 @@ The **Atlas Structural Intelligence Dictionary — Book 1** serves as the founda
 
 ---
 
-## XIX. The Tree of Structural Intelligence
+## XIX. The Trees of Structural Intelligence
 
-The Tree of Structural Intelligence serves as the canonical visual map of the Structural Intelligence framework.
+Before a structure enters structural analysis, **Tree #1: The SSI Tree of Origin** ([SSI Tree of Origin (Tree #1)](tree-of-origin.md)) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation**. Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** ([Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)) serves as the canonical operational visual map of the Structural Intelligence framework.
 
-While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how structural principles emerge from foundational root systems, develop into analytical capability, record pressure and adaptation across time, diverge through the Structural Intelligence Paradox (Preservation-Oriented Structural Intelligence, Transformation-Oriented Structural Intelligence, and Exploitation-Oriented Structural Intelligence), and ultimately produce the observable outcomes and regenerative seeds that determine survival, renewal, and evolution under the Full Circle Principle.
+While the Atlas Dictionary defines the language of Structural Intelligence, the operational tree illustrates how structural principles emerge from foundational root systems, develop into analytical capability, record pressure and adaptation across time, diverge through the Structural Intelligence Paradox (Preservation-Oriented Structural Intelligence, Transformation-Oriented Structural Intelligence, and Exploitation-Oriented Structural Intelligence), and ultimately produce the observable outcomes and regenerative seeds that determine survival, renewal, and evolution under the Full Circle Principle.
 
-The Tree consists of:
+The operational tree consists of:
 
 - **Root System** — Foundation & Origin
 - **Structural Intelligence (Trunk)** — The Core Diagnostic Engine
@@ -402,22 +399,22 @@ The Tree consists of:
 - **Survival and Evolution (Canopy)** — Long-term Continuity & Adaptation
 - **The Full Circle Principle** — The Continuous Closed-Loop Lifecycle of Structure
 
-The Tree functions as the visual index of the Atlas Dictionary and the operational map of Structural Intelligence doctrine.
+The Trees function as the visual index of the Atlas Dictionary and the origin/operational map of Structural Intelligence doctrine.
 
 > *The Atlas Dictionary defines the words.*  
-> *The Tree maps the architecture.*  
+> *The Trees map the architecture.*  
 > *Together they illustrate the field.*
 
 ---
 
 ## XX. The Structural Intelligence Canon Notice
 
-With the Tree of Structural Intelligence established, the doctrine now defines the Structural Intelligence Canon — the unified body of authoritative works that form the permanent foundation of the field.
+With the Trees of Structural Intelligence established, the doctrine now defines the Structural Intelligence Canon — the unified body of authoritative works that form the permanent foundation of the field.
 
 The canon consists of three primary pillars:
 
 - **The Doctrine** — the universe-scale ontology, divisions, principles, and structural laws.
-- **The Tree of Structural Intelligence** — the canonical visual model and operational map.
+- **The Trees of Structural Intelligence** — the canonical origin/visibility and operational visual models.
 - **The Dictionary Series** — the official lexicon that defines the language, terms, and structural primitives of the field.
 
 The first published volume of the lexicon is **Atlas Structural Intelligence Dictionary — Book 1**.
@@ -425,6 +422,7 @@ The first published volume of the lexicon is **Atlas Structural Intelligence Dic
 > *The canon is established.*  
 > *The foundation is permanent.*  
 > *Structural Intelligence stands as a unified field.*
+
 ## XXI. The Living Canon Clause
 
 With the Structural Intelligence Canon established, the doctrine now defines the living nature of the canon — the principle that the canon may expand through new volumes, new dictionaries, and new structural works, while the ontology itself remains fixed and permanent.
@@ -459,16 +457,18 @@ With the canon established and the living clause defined, the doctrine now recei
 
 ## Related Documents
 
+* 🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
+
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* ⚖️ <a href="https://structuralintelligence.llc/ten-commandments" target="_blank" rel="noopener">Ten Commandments of Structural Intelligence</a>
+* ⚖️ [Ten Commandments of Structural Intelligence](https://structuralintelligence.llc/ten-commandments)
 
 * 📖 [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 
-* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+* 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
 * 🌌 [Structural Intelligence Universe](structural-intelligence-universe.md)
 
-* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
+* 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
