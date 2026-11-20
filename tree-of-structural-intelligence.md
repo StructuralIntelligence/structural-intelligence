@@ -112,7 +112,12 @@ upon the objective being pursued.
 Dictionary Term: Structural Intelligence Paradox
 
 Same Structure, Three Pathways
-Structure	Preservation SI (Maintain)	Transformation SI (Renew)	Exploitation SI (Consume)
+Structure
+
+Preservation SI (Maintain)
+Transformation SI (Renew)
+Exploitation SI (Consume)
+
 A Tree	Treat disease, reinforce root health, and improve irrigation to preserve the tree.
 Remove diseased limbs and prune hazardous branches—sacrificing local structure to save the whole tree.
 	Harvest the tree solely for immediate timber value with no regard for its continuity.
