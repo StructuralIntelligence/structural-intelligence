@@ -124,15 +124,12 @@ The Dictionary defines the language.
 
 ## Related Pages
 
-* [[Tree-of-origin]]
-* [[What-Is-Structural-Intelligence]]
-* [[Ten-Commandments-of-Structural-Intelligence]]
-* [[Structural-Intelligence-Doctrine]]
-* [[Tree-of-Structural-Intelligence]]
-* [[Atlas-Dictionary-of-Structural-Intelligence]]
-* [[Structural-Intelligence-Universe]]
-* [[Structural-Intelligence-Canon]]
-
+* [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
+* [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+* [What Is Structural Intelligence?](what-is-structural-intelligence.md)
+* [Ten Commandments of Structural Intelligence](ten-commandments.md)
+* [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
+* [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 ---
 
 ## Visual Architecture
