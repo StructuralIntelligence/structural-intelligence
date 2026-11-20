@@ -4,9 +4,13 @@
 
 # The Tree of Structural Intelligence
 
-The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings, diverge at the Structural Intelligence Paradox into three distinct pathways, and produce observable outcomes that determine survival, renewal, and evolution.
+The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** 
+is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings, 
+diverge at the Structural Intelligence Paradox into three distinct pathways, and produce observable outcomes that determine survival, 
+renewal, and evolution.
 
-> **Core Doctrine Principle:** The same structural knowledge can be used to preserve a structure, transform a structure, or exploit a structure. The knowledge remains constant. The objective determines the pathway.
+> **Core Doctrine Principle:** The same structural knowledge can be used to preserve a structure, transform a structure, or exploit
+>  a structure. The knowledge remains constant. The objective determines the pathway.
 
 ```text
                                      ┌─────────────────────┐
@@ -107,7 +111,8 @@ SSI • Structure • Order • Pattern • Relationship • Hierarchy • Natur
 ---
 
 ### 🔀 The Fork (Pathway Divergence)
-**Definition:** The point where identical structural knowledge diverges into three distinct pathways depending upon the objective being pursued.
+**Definition:** The point where identical structural knowledge diverges into three distinct pathways depending
+upon the objective being pursued.
 
 **Dictionary Term:** Structural Intelligence Paradox
 
@@ -157,7 +162,9 @@ Stability • Adaptation • Resilience • Sustainability • Continuity • En
 ---
 
 ### 🟡 Center Branch (Transformation Pathway)
-**Definition:** The hybrid application of Structural Intelligence that combines controlled deconstruction with systemic preservation—intentionally dismantling, modifying, or replacing a compromised local structure to protect or renew the larger system to which it belongs.
+**Definition:** The hybrid application of Structural Intelligence that combines controlled deconstruction
+with systemic preservation—intentionally dismantling, modifying, or replacing a compromised local structure
+to protect or renew the larger system to which it belongs.
 
 **Common Objective:** Sacrifice, modify, or replace a local structure to preserve or renew the larger system.
 
@@ -179,7 +186,8 @@ Structural Reset • Hazard Elimination • Systemic Continuity • Successor Em
 ---
 
 ### 🔴 Right Branch (Exploitation Pathway)
-**Definition:** The application of Structural Intelligence to identify vulnerabilities and extract value, influence, resources, or control regardless of systemic consequences.
+**Definition:** The application of Structural Intelligence to identify vulnerabilities and extract value, influence,
+ resources, or control regardless of systemic consequences.
 
 **Common Objective:** Leverage vulnerabilities to generate advantage, influence, control, or resource acquisition.
 
@@ -202,21 +210,26 @@ Strategic Advantage • Compliance • Influence • Control • Resource Gain �
 
 ### 🌲 Fruit & Seeds (Observable Outcomes)
 **Definition:** The measurable and observable results produced by a structural pathway.
-* **Fruit (End-State Outcomes):** Produced by Preservation and Exploitation pathways. Stability indicates successful preservation dynamics; dependency indicates exploitation dynamics.
-* **Seeds (Continuation-State Outcomes):** Produced by the Transformation pathway. Rather than terminating in a static end-state, Seeds generate successor structures that re-enter the lifecycle.
+* **Fruit (End-State Outcomes):** Produced by Preservation and Exploitation pathways. Stability indicates successful
+ preservation dynamics; dependency indicates exploitation dynamics.
+* **Seeds (Continuation-State Outcomes):** Produced by the Transformation pathway. Rather than terminating in a static
+ end-state, Seeds generate successor structures that re-enter the lifecycle.
 
 ---
 
 ### ☁️ Canopy (Highest-Order Outcomes)
 * **Survival:** The continued existence of a structure or macro-system despite pressure and change.
-* **Evolution:** Long-term structural refinement through repeated cycles of pressure, adaptation, transformation, and renewal.
+* **Evolution:** Long-term structural refinement through repeated cycles of pressure, adaptation, transformation,
+and renewal.
 
 **Dictionary Terms:** Survival • Evolution
 
 ---
 
 ### ♻️ Full Circle Principle
-**Definition:** Structural Intelligence operates as a continuous, closed-loop lifecycle rather than a one-way process. Through Transformation Seeds, the breakdown or replacement of compromised structures directly feeds the emergence of new structures.
+**Definition:** Structural Intelligence operates as a continuous, closed-loop lifecycle rather than a one-way process.
+Through Transformation Seeds, the breakdown or replacement of compromised structures directly feeds the emergence of
+ new structures.
 
 ```text
 Structure → Environmental Pressure → Drift → Detection & Analysis → 
