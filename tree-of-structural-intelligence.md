@@ -37,7 +37,7 @@ Preservation-Oriented SI           Transformation-Oriented SI             Exploi
                                  THE FORK (Pathway Divergence)
                                 STRUCTURAL INTELLIGENCE PARADOX
                   The same structural knowledge can preserve, transform,
-                  or exploit a structure. The objective sets the path.
+                  or exploit a structure. The objective determines the path.
                                                 │
                                 CORE RINGS (Historical Record)
                                 Ring 1 : Original Structure
