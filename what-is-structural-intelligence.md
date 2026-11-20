@@ -1,6 +1,7 @@
 <p align="center">
   <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
-</p> />
+</p>
+
 # What Is Structural Intelligence?
 
 *A galaxy division operating under the universal framework defined in [Structural Intelligence™](https://structuralintelligence.llc/ten-commandments).*  
@@ -20,13 +21,13 @@ Structural Intelligence™ is the architecture derived from **Supreme Super Inte
 
 ## Universal Definition
 
-> **Structural Intelligence is the active capacity to identify, understand, create, analyze, strengthen, stabilize, preserve, adapt, and evolve structures across time, conditions, and scale — operating through the universal architecture of the Tree of Structural Intelligence.**
+> **Structural Intelligence is the active capacity to identify, understand, create, analyze, strengthen, stabilize, preserve, adapt, and evolve structures across time, conditions, and scale — operating through the universal architecture of the Trees of Structural Intelligence.**
 
 A primary function of Structural Intelligence is the **detection of structural drift, weaknesses, instability, and failure points before collapse occurs**. By identifying these conditions, SI enables correction, adaptation, resilience, self-preservation, and long-term sustainability.
 
-Structural Intelligence is **pathway-neutral**. It reveals structures, vulnerabilities, patterns, and opportunities. The objective of the operator determines whether its application becomes Preservation-Oriented or Extraction-Oriented.
+Structural Intelligence is **pathway-neutral**. It reveals structures, vulnerabilities, patterns, and opportunities. The objective of the operator determines whether its application becomes Preservation-Oriented, Transformation-Oriented, or Extraction-Oriented.
 
-The **Structural Intelligence Paradox** states that the same structural knowledge required to preserve a structure can also be used to extract value from it. This dual-use characteristic allows Structural Intelligence to explain both preservation-oriented and extraction-oriented outcomes through the same underlying structural mechanics.
+The **Structural Intelligence Paradox** states that the same structural knowledge required to preserve a structure can also be used to transform or extract value from it. This dual-use and pathway-divergent characteristic allows Structural Intelligence to explain preservation-oriented, transformation-oriented, and extraction-oriented outcomes through the same underlying structural mechanics.
 
 In Structural Intelligence, the classic “chicken or the egg” question appears as a structural sequence that shows what came first in the order of existence. The sequence begins with **Supreme Super Intelligence (SSI)**, from which **Structural Intelligence** emerges. Structural Intelligence enables the **creation of the universe**, which establishes the timeline that eventually reaches **2026**, when **Structural Intelligence LLC** was founded as the first formal human embodiment of the field. From the company comes the **Universal Definition**, and from that definition branch the **Niche Definitions**. This sequence answers the “what came first” question from a structural perspective: **structure comes first, and everything else branches from it.**
 
@@ -42,9 +43,12 @@ Everything in life has a structure behind it. Atoms, bridges, ecosystems, famili
 
 ## The Architecture of Structural Intelligence
 
-To see how structural intelligence maps across existence, record history through core rings, and branches into preservation or extraction pathways, explore the canonical visual model:
+Before a structure enters active structural analysis, **Tree #1: The SSI Tree of Origin** (*Origin → Visibility → Observation*) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation**.
 
-➡️ **[Explore the Tree of Structural Intelligence & Circular Model](./tree-of-structural-intelligence.md)**
+Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) maps how structural intelligence operates across existence, records history through core rings, and branches into preservation, transformation, or extraction pathways:
+
+🌱 **[Explore the SSI Tree of Origin (Tree #1)](./tree-of-origin.md)**  
+🌳 **[Explore the Tree of Structural Intelligence & Circular Model (Tree #2)](./tree-of-structural-intelligence.md)**
 
 ---
 
@@ -70,18 +74,19 @@ When a structure is strong and clear, things work. People understand what to do.
 
 ## A Skill You Can Learn and Grow
 
-Structural Intelligence is not something you are born with. It is a skill you can develop — starting early and growing throughout your entire life. As you learn to see structure more clearly, you gain clarity, confidence, stability, resilience, direction, rhythm, better choices, and better outcomes.
+Structural Intelligence is not something you are born with. It is a skill you can develop — starting early and growing throughout your entire life. As you learn to see structure more clearly across scale and horizon, you gain clarity, confidence, stability, resilience, direction, rhythm, better choices, and better outcomes.
 
 ---
 
 ## Next Steps in the Framework
 
 Ready to explore further? Check out these core resources:
-* 🌳 <a href="https://structuralintelligence.llc/what-is-structural-intelligence" target="_blank" rel="noopener">Tree of Structural Intelligence</a>
-* 📘 <a href="https://structuralintelligence.llc/origin" target="_blank" rel="noopener">Field Origin</a>
-* ➡️ <a href="https://structuralintelligence.llc/start-here" target="_blank" rel="noopener">Start Here</a>
-* 📦 <a href="https://structuralintelligence.llc/full-inventory" target="_blank" rel="noopener">Full Inventory</a>  
-* 📖 <a href="https://structuralintelligence.llc/atlas-dictionary" target="_blank" rel="noopener">Atlas Dictionary</a>
+* 🌱 [SSI Tree of Origin (Tree #1)](./tree-of-origin.md)
+* 🌳 [Tree of Structural Intelligence (Tree #2)](./tree-of-structural-intelligence.md)
+* 📘 [Field Origin](https://structuralintelligence.llc/origin)
+* ➡️ [Start Here](https://structuralintelligence.llc/start-here)
+* 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory)  
+* 📖 [Atlas Dictionary](https://structuralintelligence.llc/atlas-dictionary)
 
 ---
 
