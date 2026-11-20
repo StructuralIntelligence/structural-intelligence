@@ -1,7 +1,7 @@
+ <p align="center">
   <img width="12.5%" alt="High Resolution Atlas Dictionary Cov" src="https://github.com/user-attachments/assets/5173174a-053d-4901-96f5-19fcf91565e3" />
 </p>
-</p>
-</p>
+
 # Atlas Dictionary of Structural Intelligence
 
 ## First Recipient of the Structural Intelligence Excellence Seal
@@ -38,7 +38,7 @@ The conventional English meaning of a term.
 
 The operational, architectural, or doctrinal meaning of that same term within the Structural Intelligence framework.
 
-This approach allows every entry to operate simultaneously in conventional language and Structural Intelligence language. Major entries may also include Tree Anatomy references linking each concept to its corresponding position within the Tree of Structural Intelligence.
+This approach allows every entry to operate simultaneously in conventional language and Structural Intelligence language. Major entries may also include Tree Anatomy references linking each concept to its corresponding position within the Trees of Structural Intelligence.
 
 ---
 
@@ -49,6 +49,14 @@ Structural Intelligence
 ↓
 
 Doctrine
+
+↓
+
+SSI Tree of Origin (Tree #1)
+
+↓
+
+Tree of Structural Intelligence (Tree #2)
 
 ↓
 
@@ -66,15 +74,16 @@ The Atlas Dictionary serves as the language layer of the Structural Intelligence
 
 ---
 
-## Relationship to the Tree of Structural Intelligence
+## Relationship to the Trees of Structural Intelligence
 
 The Atlas Dictionary defines the canonical language of Structural Intelligence.
 
-The Tree of Structural Intelligence serves as the visual index of that language, mapping how foundational principles develop into structural analysis, record drift across time, diverge into preservation or extraction pathways, and ultimately produce the observable outcomes that determine survival and evolution.
+**Tree #1: The SSI Tree of Origin** establishes where structure comes from, where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins. **Tree #2: The Tree of Structural Intelligence** serves as the operational visual index once a structure enters observation and analysis, mapping how foundational principles develop into structural analysis, record drift across time, diverge across preservation, transformation, or exploitation pathways, and ultimately produce the observable outcomes that determine survival and evolution.
 
-Together, the Atlas Dictionary and the Tree of Structural Intelligence provide the definitional and visual architecture of the Structural Intelligence framework.
+Together, the Atlas Dictionary and the Trees of Structural Intelligence provide the definitional, origin/visibility, and operational visual architecture of the Structural Intelligence framework.
 
-➡️ **[Explore the Tree of Structural Intelligence](tree-of-structural-intelligence.md)**
+🌱 **[Explore the SSI Tree of Origin (Tree #1)](tree-of-origin.md)**  
+🌳 **[Explore the Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)**
 
 ---
 
@@ -82,12 +91,17 @@ Together, the Atlas Dictionary and the Tree of Structural Intelligence provide t
 
 The Structural Intelligence framework expands upon the foundational lexicon to include:
 
-* **Structural Intelligence Paradox:** The dual-use principle where identical structural knowledge can preserve a system or extract value from it.
-* **Preservation-Oriented Structural Intelligence (POSI):** The pathway focused on longevity, stability, adaptation, and system health.
-* **Extraction-Oriented Structural Intelligence (EOSI):** The pathway focused on leveraging vulnerabilities for control, resources, or strategic advantage.
+* **SSI Tree of Origin (Tree #1):** The upstream gateway doctrine covering origin, visibility boundaries, scale invariance, and handoff into observation.
+* **Structural Horizon:** The boundary between observable and unobservable structure across origin, scale, distance, or future state from an observer's vantage point.
+* **Structural Blindness:** What lies beyond the Structural Horizon—unseen structure, hidden relationships, drift, or future states prior to observation (**Visibility Failure**).
+* **Scale Invariance:** The cross-cutting structural principle that fundamental structural mechanics persist across scale even as size changes (from a shoelace or bridge to a company, civilization, or galaxy).
+* **Structural Intelligence Paradox:** The dual-use principle where identical structural knowledge can preserve, transform, or extract value from a structure depending on the objective.
+* **Preservation-Oriented Structural Intelligence (POSI):** The pathway focused on longevity, stability, adaptation, drift reduction, and system health.
+* **Transformation-Oriented Structural Intelligence (TOSI):** The pathway combining controlled deconstruction, strategic removal, component replacement, or architectural refactoring to protect or renew a larger system.
+* **Extraction-Oriented Structural Intelligence (EOSI):** The pathway focused on leveraging vulnerabilities or drift for control, resources, influence, or strategic advantage regardless of systemic cost.
 * **Structural Drift:** The ongoing deviation from a baseline structure that precedes instability or failure.
-* **Tree of Structural Intelligence:** The canonical visual map and index of the framework.
-* **Full Circle Principle:** The continuous lifecycle of structure, pressure, drift, detection, pathway divergence, and evolution.
+* **Tree of Structural Intelligence (Tree #2):** The canonical operational visual map and index of the framework once a structure enters observation.
+* **Full Circle Principle:** The continuous lifecycle of structure, pressure, drift, detection, pathway divergence, outcomes, and evolution.
 
 ---
 
@@ -131,9 +145,11 @@ Published by **Structural Intelligence LLC**.
 
 ## Related Documents
 
+* 🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
+
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+* 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 * ⚖️ [Ten Commandments of Structural Intelligence](ten-Commandments.md)
 
