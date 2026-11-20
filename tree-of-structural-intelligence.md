@@ -119,23 +119,31 @@ upon the objective being pursued.
 #### Same Structure, Three Pathways
 
 **1. Example: A Tree**
-* 🟢 **Preservation SI (Maintain):** Treat disease, reinforce root health, and improve irrigation to keep the tree alive.
-* 🟡 **Transformation SI (Renew):** Prune diseased limbs and remove hazardous branches—sacrificing a local part to save the whole tree.
-* 🔴 **Exploitation SI (Consume):** Cut the tree down solely for immediate timber profit with no regard for its survival.
+* 🟢 **Preservation SI (Maintain):** Treat disease, reinforce root health, and improve irrigation to keep
+the tree alive.
+* 🟡 **Transformation SI (Renew):** Prune diseased limbs and remove hazardous branches—sacrificing a local
+ part to save the whole tree.
+* 🔴 **Exploitation SI (Consume):** Cut the tree down solely for immediate timber profit with no regard for
+its survival.
 
 ---
 
 **2. Example: A Building**
-* 🟢 **Preservation SI (Maintain):** Repair cracks, reinforce load-bearing supports, and extend the building's service life.
-* 🟡 **Transformation SI (Renew):** Demolish unsafe sections or clear a condemned structure to protect the surrounding city block and make room for new growth.
+* 🟢 **Preservation SI (Maintain):** Repair cracks, reinforce load-bearing supports, and extend the building's
+service life.
+* 🟡 **Transformation SI (Renew):** Demolish unsafe sections or clear a condemned structure to protect the
+surrounding city block and make room for new growth.
 * 🔴 **Exploitation SI (Consume):** Strip valuable copper, materials, and equity while letting the building collapse.
 
 ---
 
 **3. Example: A Human System**
-* 🟢 **Preservation SI (Maintain):** Therapy, education, and rehabilitation to strengthen health and stability.
-* 🟡 **Transformation SI (Renew):** Surgery, major life restructuring, or replacing a failing department to save the whole person or company.
-* 🔴 **Exploitation SI (Consume):** Psychological manipulation, coercion, and creating dependency for personal control or gain.
+* 🟢 **Preservation SI (Maintain):** Therapy, education, and rehabilitation to strengthen health and
+stability.
+* 🟡 **Transformation SI (Renew):** Surgery, major life restructuring, or replacing a failing department to save
+ the whole person or company.
+* 🔴 **Exploitation SI (Consume):** Psychological manipulation, coercion, and creating dependency for personal
+control or gain.
 
 ---
 
