@@ -1,4 +1,3 @@
- <p align="center">
   <img width="131" height="197" alt="civilization-scale-architecture" src="https://github.com/user-attachments/assets/11765fee-5bf1-4af0-8025-886caa51c927" />
 </p>
 
