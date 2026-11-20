@@ -1,4 +1,6 @@
-<img width="256" height="170.6" alt="badge" src="https://github.com/user-attachments/assets/63ea7318-a2da-4e00-8d3a-43c5068a226f" />
+<p align="center">
+  <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
+</p>
 
 Without SSI (Supreme Super Intelligence) = No SI (Structure Intelligence)
  
