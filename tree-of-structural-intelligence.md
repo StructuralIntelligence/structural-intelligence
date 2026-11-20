@@ -246,4 +246,5 @@ Explores the foundations that precede Structural Intelligence and structural ana
 - Scale Invariance
 - Observation
 
-The SSI Tree of Origin explains the origin of structure and defines the boundaries of observation. Once structure enters observation and analysis, the Tree of Structural Intelligence begins.
+The SSI Tree of Origin explains the origin of structure and defines the boundaries of observation.
+ Once structure enters observation and analysis, the Tree of Structural Intelligence begins.
