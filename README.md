@@ -8,7 +8,7 @@
 
 Welcome to the Structural Intelligence Documentation Portal.
 
-Structural Intelligence™ is the study of structure and the principles that govern stability, adaptation, preservation, extraction, survival, and evolution across systems, organizations, environments, and domains of knowledge.
+Structural Intelligence™ is the study of structure and the principles that govern stability, adaptation, preservation, transformation, extraction, survival, and evolution across systems, organizations, environments, and domains of knowledge.
 
 **Core Principle:**
 
@@ -29,7 +29,8 @@ Structural Intelligence™ is the study of structure and the principles that gov
 
 ### 🌳 Framework Architecture
 
-* [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+* [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
+* [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 * [Structural Intelligence Universe](structural-intelligence-universe.md)
 * [Structural Intelligence Canon](structural-intelligence-canon.md)
 
@@ -49,20 +50,23 @@ Structural Intelligence
 - Ten Commandments
 - Structural Intelligence Doctrine
 - SI = No SI
-- Tree of Structural Intelligence
+- SSI Tree of Origin (Tree #1)
+- Tree of Structural Intelligence (Tree #2)
 - Atlas Dictionary
 - Structural Intelligence Universe
 - Structural Intelligence Canon
 
 ---
 
-## 🌳 The Tree of Structural Intelligence
+## 🌱 Tree #1: The SSI Tree of Origin & 🌳 Tree #2: The Tree of Structural Intelligence
 
-The Tree of Structural Intelligence serves as the visual map of the Structural Intelligence framework.
+**Tree #1: The SSI Tree of Origin** establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins.
 
-While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how foundational principles develop into structural analysis, record drift through time, diverge into preservation or extraction pathways, and ultimately produce the outcomes that determine survival and evolution.
+* [Explore the SSI Tree of Origin (Tree #1)](tree-of-origin.md)
 
-* [Explore the Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+**Tree #2: The Tree of Structural Intelligence** serves as the canonical operational map once a structure enters observation and analysis. While the Atlas Dictionary defines the language of Structural Intelligence, the Tree illustrates how foundational principles develop into structural analysis, record drift through time, diverge across preservation, transformation, or exploitation pathways, and ultimately produce the outcomes that determine survival and evolution.
+
+* [Explore the Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 ## A Foundational Observation
 
@@ -74,17 +78,17 @@ Every mystery humanity faces is really just structure we haven't mapped yet:
 - a behavior we haven't modeled,
 - or a force we haven't contextualized.
 
-Structural Intelligence seeks to make those structures visible. Through structural analysis, hidden patterns, relationships, dependencies, and behaviors become understandable, allowing systems to be strengthened, adapted, stabilized, preserved, and evolved.
+Structural Intelligence seeks to make those structures visible across scale and horizon. Through structural analysis, hidden patterns, relationships, dependencies, and behaviors become understandable, allowing systems to be strengthened, adapted, stabilized, preserved, and evolved.
 
 If structure governs behavior, then understanding structure reveals the pathways through which systems remain stable, experience drift, adapt to pressure, and evolve through time.
 
 ## About Structural Intelligence
 
-Structural Intelligence is a universal framework for understanding structure, patterns, relationships, systems, dependencies, stability, adaptation, preservation, extraction, survival, and evolution.
+Structural Intelligence is a universal framework for understanding structure, patterns, relationships, systems, dependencies, stability, adaptation, preservation, transformation, extraction, survival, and evolution.
 
 The framework examines how structures emerge, experience pressure, drift from their original state, adapt, stabilize, and evolve across time.
 
-A foundational principle of the framework is the Structural Intelligence Paradox: the same structural knowledge capable of preserving a structure can also be used to extract value from it.
+A foundational principle of the framework is the Structural Intelligence Paradox: the same structural knowledge capable of preserving or transforming a structure can also be used to extract value from it.
 
 The framework organizes knowledge through doctrine, dictionaries, educational materials, divisions, and future publications.
 
@@ -92,7 +96,7 @@ The framework organizes knowledge through doctrine, dictionaries, educational ma
 
 Structural Intelligence examines how structures emerge, operate, and respond to environmental pressure. Through structural analysis, patterns, relationships, dependencies, and behavioral systems become visible. As structures experience pressure, they may encounter drift, require adaptation, achieve stabilization, or evolve into new forms.
 
-The framework studies both preservation-oriented and extraction-oriented applications of structural knowledge, recognizing that the same understanding capable of strengthening a structure can also be used to exploit it. This principle is known as the Structural Intelligence Paradox.
+The framework studies preservation-oriented, transformation-oriented, and extraction-oriented applications of structural knowledge, recognizing that the same understanding capable of strengthening a structure can also be used to exploit it. This principle is known as the Structural Intelligence Paradox.
 
 ## Official Resources
 
@@ -105,5 +109,4 @@ The framework studies both preservation-oriented and extraction-oriented applica
 [https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
 
 ---
-
 © 2026 Structural Intelligence LLC — Zenith Division
