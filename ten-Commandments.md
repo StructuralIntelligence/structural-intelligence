@@ -1,4 +1,5 @@
-<p align="center">
+<img width="256" height="170.6" alt="badge" src="https://github.com/user-attachments/assets/63ea7318-a2da-4e00-8d3a-43c5068a226f" />
+ <p align="center">
   <img width="113.6" height="170.6" alt="ten-command" src="https://github.com/user-attachments/assets/e486f0c9-7c8a-4180-8d54-f08089a2997b" />
 </p>
 
