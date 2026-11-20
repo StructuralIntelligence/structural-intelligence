@@ -4,15 +4,11 @@
 
 # The Tree of Structural Intelligence
 
-The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** 
-is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings, 
-diverge at the Structural Intelligence Paradox into three distinct pathways, and produce observable outcomes that determine survival, 
-renewal, and evolution.
+The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings, diverge at the Structural Intelligence Paradox into three distinct pathways, and produce observable outcomes that determine survival, renewal, and evolution.
 
-> **Core Doctrine Principle:** The same structural knowledge can be used to preserve a structure, transform a structure, or exploit
->  a structure. The knowledge remains constant. The objective determines the pathway.
+> **Core Doctrine Principle:** The same structural knowledge can be used to preserve a structure, transform a structure, or exploit a structure. The knowledge remains constant. The objective determines the pathway.
 
-
+```text
                                      ┌─────────────────────┐
                                      │       CANOPY        │
                                      │  SURVIVAL &         │
@@ -72,9 +68,7 @@ Preservation-Oriented SI           Transformation-Oriented SI             Exploi
         │ (Transformation Seeds Re-enter the Root System)                               │
         ▼                                                                               │
   NEW STRUCTURES EMERGE ──► ENVIRONMENTAL PRESSURE ──► STRUCTURAL DRIFT ──► ANALYSIS ───┘
-                                  THE STRUCTURAL INTELLIGENCE CYCLEit) → Observable Outcomes (Fruit / Seeds) → 
-Survival & Evolution → New Structures → Environmental Pressure (Cycle Repeats)
-
+                                  THE STRUCTURAL INTELLIGENCE CYCLE
 
 How to Read the Tree
 
