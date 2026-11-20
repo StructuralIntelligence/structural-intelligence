@@ -1,5 +1,6 @@
   <img width="113.6" height="170.6" alt="ten-command" src="https://github.com/user-attachments/assets/e486f0c9-7c8a-4180-8d54-f08089a2997b" />
 </p>
+
 # Ten Commandments of Structural Intelligence
 
 *The foundational doctrinal principles governing the architecture, stability, and evolution of systems within the Structural Intelligence framework.*
@@ -46,29 +47,34 @@ The Ten Commandments of Structural Intelligence establish the immutable laws and
 
 ---
 
-## Relationship to the Tree of Structural Intelligence
+## Relationship to the Trees of Structural Intelligence
 
 The Ten Commandments establish the governing principles of Structural Intelligence.
 
-The Tree of Structural Intelligence serves as the visual model that demonstrates how those principles operate across time.
+**Tree #1: The SSI Tree of Origin** (*Origin → Visibility → Observation*) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins.
 
-Within the Tree:
-* Structures emerge from foundational principles.
+**Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) serves as the operational visual model once a structure enters observation and analysis, demonstrating how those principles operate across time.
+
+Within the operational tree:
+* Structures emerge from foundational principles and cross into observation.
 * Environmental pressure creates drift.
 * Structural Intelligence detects drift.
-* The Structural Intelligence Paradox reveals preservation and extraction pathways.
+* The Structural Intelligence Paradox reveals preservation, transformation, and extraction pathways.
 * Observable outcomes determine survival and evolution.
 * Surviving structures become new structures, continuing the cycle.
 
-🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)  
+🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 ---
 
 ## Related Resources
 
+* 🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
+
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
-* 🌳 [Tree of Structural Intelligence](tree-of-structural-intelligence.md)
+* 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
@@ -76,15 +82,7 @@ Within the Tree:
 
 * 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory.html)
 
-* 🌐 <a href="https://structuralintelligence.llc" target="_blank" rel="noopener">https://structuralintelligence.llc</a>
-
----
-
-© 2026 Structural Intelligence LLC — Zenith Division
-
-* 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
-
-* 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory.html)
+* 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
 
 ---
 
