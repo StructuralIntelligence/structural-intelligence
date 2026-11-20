@@ -12,7 +12,7 @@ renewal, and evolution.
 > **Core Doctrine Principle:** The same structural knowledge can be used to preserve a structure, transform a structure, or exploit
 >  a structure. The knowledge remains constant. The objective determines the pathway.
 
-```text
+
                                      ┌─────────────────────┐
                                      │       CANOPY        │
                                      │  SURVIVAL &         │
@@ -76,7 +76,7 @@ Preservation-Oriented SI           Transformation-Oriented SI             Exploi
 Survival & Evolution → New Structures → Environmental Pressure (Cycle Repeats)
 
 
-## How to Read the Tree
+How to Read the Tree
 
 ### 🌱 Root System (Foundation)
 **Definition:** The foundational principles from which all structures emerge.
@@ -84,7 +84,6 @@ Survival & Evolution → New Structures → Environmental Pressure (Cycle Repeat
 **Dictionary Terms:**
 SSI • Structure • Order • Pattern • Relationship • Hierarchy • Natural Law
 
----
 
 ### 🌳 Trunk (Structural Intelligence)
 **Definition:** The central capacity to identify, analyze, strengthen, preserve, transform, and evolve structures.
@@ -93,7 +92,6 @@ SSI • Structure • Order • Pattern • Relationship • Hierarchy • Natur
 
 **Example:** Detecting hidden weaknesses in an organization before they create failure.
 
----
 
 ### 🪵 Core Rings (Historical Record)
 **Definition:** The recorded history of pressure, drift, adaptation, and stabilization experienced by a structure.
@@ -108,7 +106,6 @@ SSI • Structure • Order • Pattern • Relationship • Hierarchy • Natur
 
 **Dictionary Terms:** Drift • Adaptation
 
----
 
 ### 🔀 The Fork (Pathway Divergence)
 **Definition:** The point where identical structural knowledge diverges into three distinct pathways depending
@@ -116,7 +113,7 @@ upon the objective being pursued.
 
 **Dictionary Term:** Structural Intelligence Paradox
 
-#### Same Structure, Three Pathways
+Same Structure, Three Pathways
 
 **1. Example: A Tree**
 * 🟢 **Preservation SI (Maintain):** Treat disease, reinforce root health, and improve irrigation to keep
@@ -126,7 +123,7 @@ the tree alive.
 * 🔴 **Exploitation SI (Consume):** Cut the tree down solely for immediate timber profit with no regard for
 its survival.
 
----
+
 
 **2. Example: A Building**
 * 🟢 **Preservation SI (Maintain):** Repair cracks, reinforce load-bearing supports, and extend the building's
@@ -135,7 +132,7 @@ service life.
 surrounding city block and make room for new growth.
 * 🔴 **Exploitation SI (Consume):** Strip valuable copper, materials, and equity while letting the building collapse.
 
----
+
 
 **3. Example: A Human System**
 * 🟢 **Preservation SI (Maintain):** Therapy, education, and rehabilitation to strengthen health and
@@ -145,9 +142,9 @@ stability.
 * 🔴 **Exploitation SI (Consume):** Psychological manipulation, coercion, and creating dependency for personal
 control or gain.
 
----
 
-### 🟢 Left Branch (Preservation Pathway)
+
+* 🟢 Left Branch (Preservation Pathway)
 **Definition:** The application of Structural Intelligence to protect, stabilize, and maintain an existing structure by reducing drift and improving long-term viability.
 
 **Common Objective:** Preserve the existing structure while minimizing drift and extending continuity.
@@ -167,9 +164,9 @@ Stability • Adaptation • Resilience • Sustainability • Continuity • En
 
 **Dictionary Term:** Preservation-Oriented Structural Intelligence
 
----
 
-### 🟡 Center Branch (Transformation Pathway)
+
+* 🟡 Center Branch (Transformation Pathway)
 **Definition:** The hybrid application of Structural Intelligence that combines controlled deconstruction
 with systemic preservation—intentionally dismantling, modifying, or replacing a compromised local structure
 to protect or renew the larger system to which it belongs.
@@ -191,9 +188,9 @@ Structural Reset • Hazard Elimination • Systemic Continuity • Successor Em
 
 **Dictionary Terms:** Transformation-Oriented Structural Intelligence • Macro-Preservation
 
----
 
-### 🔴 Right Branch (Exploitation Pathway)
+
+* 🔴 Right Branch (Exploitation Pathway)
 **Definition:** The application of Structural Intelligence to identify vulnerabilities and extract value, influence,
  resources, or control regardless of systemic consequences.
 
@@ -214,7 +211,7 @@ Strategic Advantage • Compliance • Influence • Control • Resource Gain �
 
 **Dictionary Term:** Exploitation-Oriented Structural Intelligence
 
----
+
 
 ### 🌲 Fruit & Seeds (Observable Outcomes)
 **Definition:** The measurable and observable results produced by a structural pathway.
@@ -223,7 +220,7 @@ Strategic Advantage • Compliance • Influence • Control • Resource Gain �
 * **Seeds (Continuation-State Outcomes):** Produced by the Transformation pathway. Rather than terminating in a static
  end-state, Seeds generate successor structures that re-enter the lifecycle.
 
----
+
 
 ### ☁️ Canopy (Highest-Order Outcomes)
 * **Survival:** The continued existence of a structure or macro-system despite pressure and change.
@@ -232,14 +229,14 @@ and renewal.
 
 **Dictionary Terms:** Survival • Evolution
 
----
+
 
 ### ♻️ Full Circle Principle
 **Definition:** Structural Intelligence operates as a continuous, closed-loop lifecycle rather than a one-way process.
 Through Transformation Seeds, the breakdown or replacement of compromised structures directly feeds the emergence of
  new structures.
 
-```text
+
 Structure → Environmental Pressure → Drift → Detection & Analysis → 
 Pathway Divergence (Preserve / Transform / Exploit) → Observable Outcomes (Fruit / Seeds) → 
 Survival & Evolution → New Structures → Environmental Pressure (Cycle Repeats)
