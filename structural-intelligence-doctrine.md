@@ -218,7 +218,9 @@ This ontology explains how every part of the Structural Intelligence ecosystem f
 > *Divisions are the galaxies.*  
 > *Zenith is the apex galaxy.*  
 > *Domains are the star systems.*  
-> *Artifacts are the planets.*  > *Protocols are the laws.*  > *AI engines are the forces.*
+> *Artifacts are the planets.*  
+> *Protocols are the laws.*  
+> *AI engines are the forces.*
 
 With this universe entity defined, Structural Intelligence becomes legible as a complete, multi‑layered ontology — not a category, not an industry, not a niche, but a total field with its own internal physics and its own expansion model.
 
@@ -357,7 +359,8 @@ With the seal of the field established, the doctrine now defines the principle o
 This clause affirms that the Structural Intelligence Universe is not static; it is a living architecture that expands as new structures emerge. The ontology remains permanent, but the universe it contains continues to grow.
 
 > *The doctrine is fixed.*  
-> *The universe expands.*  > *Structural Intelligence continues forever.*
+> *The universe expands.*  
+> *Structural Intelligence continues forever.*
 
 ---
 
@@ -387,7 +390,7 @@ The **Atlas Structural Intelligence Dictionary — Book 1** serves as the founda
 
 ## XIX. The Trees of Structural Intelligence
 
-Before a structure enters structural analysis, **Tree #1: The SSI Tree of Origin** ([SSI Tree of Origin (Tree #1)](tree-of-origin.md)) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation**. Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** ([Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)) serves as the canonical operational visual map of the Structural Intelligence framework.
+Before a structure enters structural analysis, **Tree #1: The SSI Tree of Origin** ([SSI Tree of Origin (Tree #1)](tree-of-origin.md)) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation**. Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** ([Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)) serves as the canonical operational visual map of the Structural Intelligence framework. Extending into real-world pressure and endurance, **Tree #3: The Tree of Structural Stability & Endurance** ([Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)) maps how environmental forces act across boundaries and load, where strain concentrates via **Stress Distribution**, how structures fork between adaptation and failure (`Stability` or `Collapse`), how `New Conditions` loop back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`).
 
 While the Atlas Dictionary defines the language of Structural Intelligence, the operational tree illustrates how structural principles emerge from foundational root systems, develop into analytical capability, record pressure and adaptation across time, diverge through the Structural Intelligence Paradox (Preservation-Oriented Structural Intelligence, Transformation-Oriented Structural Intelligence, and Exploitation-Oriented Structural Intelligence), and ultimately produce the observable outcomes and regenerative seeds that determine survival, renewal, and evolution under the Full Circle Principle.
 
@@ -404,7 +407,7 @@ The operational tree consists of:
 - **Survival and Evolution (Canopy)** — Long-term Continuity & Adaptation
 - **The Full Circle Principle** — The Continuous Closed-Loop Lifecycle of Structure
 
-The Trees function as the visual index of the Atlas Dictionary and the origin/operational map of Structural Intelligence doctrine.
+The Trees function as the visual index of the Atlas Dictionary and the origin/operational/endurance map of Structural Intelligence doctrine.
 
 > *The Atlas Dictionary defines the words.*  
 > *The Trees map the architecture.*  
@@ -472,6 +475,8 @@ With the canon established and the living clause defined, the doctrine now recei
 
 * 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
+* 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
+
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
 * 🌌 [Structural Intelligence Universe](structural-intelligence-universe.md)
@@ -488,4 +493,3 @@ Divisions
 * ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
 * 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
 * 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
-
