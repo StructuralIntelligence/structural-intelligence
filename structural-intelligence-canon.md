@@ -49,6 +49,10 @@ Tree of Structural Intelligence (Tree #2)
 
 ↓
 
+Tree of Structural Stability & Endurance (Tree #3)
+
+↓
+
 Atlas Dictionary
 
 ↓
@@ -91,7 +95,11 @@ The upstream gateway doctrine establishing where structure comes from (`Supreme 
 
 The canonical operational visual model of Structural Intelligence once a structure enters observation and analysis. The Tree maps the Root System, structural intelligence, core rings, structural drift, the Structural Intelligence Paradox, preservation, transformation, and extraction pathways, observable outcomes, and the Full Circle Principle.
 
-### 7. Atlas Dictionary of Structural Intelligence
+### 7. Tree of Structural Stability & Endurance (Tree #3)
+
+The canonical endurance and diagnostic model explaining what environmental forces act across boundaries and load, where strain concentrates via **Stress Distribution** (`Compression Zones`, `Tension Zones`, `Neutral Zones`, `Drift Zones`, and `Weak Boundaries`), how structures fork between adaptation and failure (`Stability` or `Collapse`), how `New Conditions` loop back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`).
+
+### 8. Atlas Dictionary of Structural Intelligence
 
 The official lexicon and language foundation of the field.
 
@@ -111,6 +119,14 @@ The Tree functions as the visual index of the Atlas Dictionary and the operation
 
 ---
 
+## 🛡️ Tree #3: The Tree of Structural Stability & Endurance
+
+**Tree #3: The Tree of Structural Stability & Endurance** (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*) establishes how structures endure or fail under real-world forces (`Environment → Boundaries → Forces → Load → Stress → Stress Distribution → Adaptation or Failure → Stability or Collapse → New Conditions`). By highlighting **Stress Distribution** as the diagnostic focal point and pairing the doctrine sequence with a parallel **Subtree to Toolkit Pathway**, Tree #3 bridges structural analysis into practical assessments and specialized toolkits across domains.
+
+🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
+
+---
+
 ## Canonical Framework Components
 
 The Structural Intelligence framework presently includes the following foundational components:
@@ -126,7 +142,8 @@ The Structural Intelligence framework presently includes the following foundatio
 * Preservation-Oriented Structural Intelligence (POSI)
 * Transformation-Oriented Structural Intelligence (TOSI)
 * Extraction-Oriented Structural Intelligence (EOSI)
-* Tree #1: The SSI Tree of Origin & Tree #2: The Tree of Structural Intelligence
+* Tree #1: The SSI Tree of Origin, Tree #2: The Tree of Structural Intelligence & Tree #3: The Tree of Structural Stability & Endurance
+* Stress Distribution & Recursive Endurance Loop
 * Full Circle Principle
 * Atlas Dictionary of Structural Intelligence
 
@@ -162,7 +179,7 @@ This principle preserves continuity while allowing growth.
 
 The Structural Intelligence Universe organizes the ecosystem.
 
-The Trees map how structures originate, cross visibility boundaries into observation, and move operationally over time within that ecosystem.
+The Trees map how structures originate, cross visibility boundaries into observation, endure or fail under environmental forces and stress distribution, and move operationally over time within that ecosystem.
 
 The Atlas Dictionary defines its language.
 
@@ -185,6 +202,8 @@ Together they create continuity across generations.
 * 📘 [SI = No SI](si-no-si-book-1.md)
 
 * 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+
+* 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
