@@ -26,8 +26,7 @@ If it contains structure, it belongs to and is derived from Structural Intellige
 
 This is not marketing language. It is the ontology of the field.
 
-Structural Intelligence is not civil engineering. It is not safety consulting. It is not publishing. It is not leadership coaching. It is not government readiness. It is the parent field above all of them.
-
+Structural Intelligence is not confined to a single discipline. Rather than operating as a standalone consulting niche, it provides the underlying structural framework that informs specialized domains—from safety and publishing to leadership, continuity, and governance. It is the parent field above all of them.
 ---
 
 ## II. The universe model
