@@ -144,6 +144,7 @@ The Dictionary defines the language.
 
 **Website:**  
 [https://structuralintelligence.llc](https://structuralintelligence.llc)
+
 Divisions
 * 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
 * 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
