@@ -142,7 +142,15 @@ Tree #3 diagnoses where environmental forces and stress accumulate; **Tree #2** 
 ### Locked Tree #3 Handoff Line
 
 ```markdown
-- **Tree #3:** The Tree of Structural Stability & Endurance (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*) | `Environment → Boundaries → Forces → Load → Stress → Stress Distribution (Compression, Tension, Neutral, Drift & Weak Boundary Zones) → Adaptation or Failure → Stability or Collapse → New Conditions → Environment` (locked recursive endurance model paired with a parallel `Domain Subtree → Environmental Forces → Stress Distribution → Diagnostic Assessment → SI Toolkit → Purchase` commercial branch) | `tree-of-structural-stability.md` (https://github.com/StructuralIntelligence/structural-intelligence/blob/main/tree-of-structural-stability.md)
+- **Tree #3:** The Tree of Structural Stability & Endurance
+ (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*)
+| `Environment → Boundaries → Forces → Load → Stress → Stress Distribution
+ (Compression, Tension, Neutral, Drift & Weak Boundary Zones) →
+Adaptation or Failure → Stability or Collapse → New Conditions →
+Environment` (locked recursive endurance model paired with a parallel `Domain Subtree →
+Environmental Forces → Stress Distribution → Diagnostic Assessment → SI Toolkit → Purchase` commercial branch)
+| `tree-of-structural-stability.md`
+ (https://github.com/StructuralIntelligence/structural-intelligence/blob/main/tree-of-structural-stability.md)
 
 ```
 
