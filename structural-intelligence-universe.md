@@ -1,3 +1,4 @@
+<p align="center">
   <img width="131" height="197" alt="civilization-scale-architecture" src="https://github.com/user-attachments/assets/11765fee-5bf1-4af0-8025-886caa51c927" />
 </p>
 
@@ -44,14 +45,15 @@ Observable Outcomes
 
 ## Relationship to the Trees of Structural Intelligence
 
-**Tree #1: The SSI Tree of Origin** (*Origin → Visibility → Observation*) establishes where structure comes from, where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins. **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) serves as the operational map once a structure enters observation and analysis.
+**Tree #1: The SSI Tree of Origin** (*Origin → Visibility → Observation*) establishes where structure comes from, where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins. **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) serves as the operational map once a structure enters observation and analysis. **Tree #3: The Tree of Structural Stability & Endurance** (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*) explains what environmental forces act upon a structure, where strain concentrates across zones and boundaries, whether it adapts or fails (`Stability` or `Collapse`), how `New Conditions` feed back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`).
 
-While the Universe model explains how divisions, domains, artifacts, protocols, and AI engines are organized, the Trees explain how structures originate, cross visibility boundaries, experience pressure, drift, adapt, diverge through pathway selection, and produce observable outcomes that determine survival and evolution.
+While the Universe model explains how divisions, domains, artifacts, protocols, and AI engines are organized, the Trees explain how structures originate, cross visibility boundaries, experience environmental forces and pressure, concentrate stress, drift, adapt, diverge through pathway selection, and produce observable outcomes that determine survival and evolution.
 
-Together, the Universe and the Trees provide the organizational, origin/visibility, and operational architecture of Structural Intelligence.
+Together, the Universe and the Trees provide the organizational, origin/visibility, operational, and stability/endurance architecture of Structural Intelligence.
 
 🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)  
-🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)  
+🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 
 ---
 
@@ -122,7 +124,7 @@ Evolution
 
 New Structure
 
-This cycle is visualized within **Tree #2: The Tree of Structural Intelligence** (following entry via **Tree #1: The SSI Tree of Origin**) and represents one of the foundational operating mechanics of the Structural Intelligence framework.
+This cycle is visualized within **Tree #2: The Tree of Structural Intelligence** (following entry via **Tree #1: The SSI Tree of Origin** and paired with force, boundary, and stress-distribution mechanics in **Tree #3: The Tree of Structural Stability & Endurance**) and represents one of the foundational operating mechanics of the Structural Intelligence framework.
 
 ---
 
@@ -149,6 +151,8 @@ The Structural Intelligence Universe exists to:
 * 📖 [Structural Intelligence Doctrine](https://structuralintelligence.llc/structural-intelligence)
 
 * 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+
+* 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](https://structuralintelligence.llc/atlas-dictionary)
 
