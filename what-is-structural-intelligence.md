@@ -87,7 +87,9 @@ Ready to explore further? Check out these core resources:
 * 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory)  
 * 📖 [Atlas Dictionary](https://structuralintelligence.llc/atlas-dictionary)
 
----Divisions
+* 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
+
+* ---Divisions
 * 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
 * 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
 * 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
