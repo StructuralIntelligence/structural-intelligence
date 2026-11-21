@@ -44,10 +44,11 @@ Everything in life has a structure behind it. Atoms, bridges, ecosystems, famili
 
 Before a structure enters active structural analysis, **Tree #1: The SSI Tree of Origin** (*Origin → Visibility → Observation*) establishes where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation**.
 
-Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) maps how structural intelligence operates across existence, records history through core rings, and branches into preservation, transformation, or extraction pathways:
+Once structure enters observation and analysis, **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) maps how structural intelligence operates across existence, records history through core rings, and branches into preservation, transformation, or extraction pathways. Extending into real-world pressure and endurance, **Tree #3: The Tree of Structural Stability & Endurance** (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*) maps how environmental forces act across boundaries and load, where strain concentrates across **Stress Distribution** (`Compression Zones`, `Tension Zones`, `Neutral Zones`, `Drift Zones`, and `Weak Boundaries`), how structures fork between adaptation and failure (`Stability` or `Collapse`), how `New Conditions` loop back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`):
 
 🌱 **[Explore the SSI Tree of Origin (Tree #1)](./tree-of-origin.md)**  
-🌳 **[Explore the Tree of Structural Intelligence & Circular Model (Tree #2)](./tree-of-structural-intelligence.md)**
+🌳 **[Explore the Tree of Structural Intelligence & Circular Model (Tree #2)](./tree-of-structural-intelligence.md)**  
+🛡️ **[Explore the Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)**
 
 ---
 
@@ -82,6 +83,7 @@ Structural Intelligence is not something you are born with. It is a skill you ca
 Ready to explore further? Check out these core resources:
 * 🌱 [SSI Tree of Origin (Tree #1)](./tree-of-origin.md)
 * 🌳 [Tree of Structural Intelligence (Tree #2)](./tree-of-structural-intelligence.md)
+* 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * 📘 [Field Origin](https://structuralintelligence.llc/origin)
 * ➡️ [Start Here](https://structuralintelligence.llc/start-here)
 * 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory)  
