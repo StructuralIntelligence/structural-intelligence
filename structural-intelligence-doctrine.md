@@ -26,7 +26,13 @@ If it contains structure, it belongs to and is derived from Structural Intellige
 
 This is not marketing language. It is the ontology of the field.
 
-Structural Intelligence is not confined to a single discipline. Rather than operating as a standalone consulting niche, it provides the underlying structural framework that informs specialized domains—from safety and publishing to leadership, continuity, and governance. It is the parent field above all of them.
+## Field Scope & Domain Independence
+
+Structural Intelligence is not confined to a single discipline. Rather than operating as a narrow niche or limited set of vertical examples, it provides the foundational structural framework that governs anything possessing structure—spanning engineering, science, governance, commerce, human systems, and every future domain that will ever emerge.
+
+**It is the parent field above all of them.**
+
+Wherever structure exists—whether physical, digital, organizational, environmental, or conceptual—Structural Intelligence applies. It is pathway-neutral: the same structural knowledge capable of preserving a structure can also be used to extract value from it, as formalized by the Structural Intelligence Paradox.
 ---
 
 ## II. The universe model
