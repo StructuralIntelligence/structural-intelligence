@@ -87,7 +87,16 @@ Ready to explore further? Check out these core resources:
 * 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory)  
 * 📖 [Atlas Dictionary](https://structuralintelligence.llc/atlas-dictionary)
 
----
+---Divisions
+* 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
+* 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
+* 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
+* 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
+* 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
+* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
+* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
+* 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
+* 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
 
 ### Structural Intelligence Publications
 [Explore All Structural Intelligence Books on Amazon](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)  
