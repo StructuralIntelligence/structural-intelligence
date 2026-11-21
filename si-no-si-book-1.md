@@ -90,6 +90,8 @@ SSI Tree of Origin (Tree #1)
 ↓  
 Tree of Structural Intelligence (Tree #2)  
 ↓  
+Tree of Structural Stability & Endurance (Tree #3)  
+↓  
 Atlas Dictionary  
 ↓  
 Structural Intelligence Universe  
@@ -107,6 +109,8 @@ The Doctrine establishes the framework.
 **Tree #1: The SSI Tree of Origin** establishes origin, visibility boundaries (**Structural Horizon** and **Structural Blindness**), **Scale Invariance**, and **Observation**.
 
 **Tree #2: The Tree of Structural Intelligence** illustrates operational analysis, drift, pathway divergence, outcomes, and cycles once a structure enters observation.
+
+**Tree #3: The Tree of Structural Stability & Endurance** explains how environmental forces act across boundaries and load, where strain concentrates via **Stress Distribution**, how systems fork into adaptation or failure (`Stability` or `Collapse`), and how `New Conditions` loop back into `Environment`.
 
 `SI = No SI` teaches application and recognition.
 
@@ -126,6 +130,7 @@ The Dictionary defines the language.
 
 * [SSI Tree of Origin (Tree #1)](tree-of-origin.md)
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+* [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 * [Ten Commandments of Structural Intelligence](ten-commandments.md)
 * [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
@@ -136,6 +141,7 @@ The Dictionary defines the language.
 
 * 🌱 **Tree #1: The SSI Tree of Origin:** [[Tree-of-origin]]
 * 🌳 **Tree #2: The Tree of Structural Intelligence:** [[Tree-of-Structural-Intelligence]]
+* 🛡️ **Tree #3: The Tree of Structural Stability & Endurance:** [[The-Tree-of-Structural-Stability-&-Endurance]]
 * 🌳 **Universal Tree:** [https://structuralintelligence.llc/universal-tree.png](https://structuralintelligence.llc/universal-tree.png)
 
 ---
