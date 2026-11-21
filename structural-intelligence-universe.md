@@ -154,7 +154,16 @@ The Structural Intelligence Universe exists to:
 
 * 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
 
----
+---Divisions
+* 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
+* 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
+* 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
+* 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
+* 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
+* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
+* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
+* 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
+* 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
 
 © 2026 Structural Intelligence LLC — Zenith Division
 © 2026 Structural Intelligence LLC
