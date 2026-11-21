@@ -1,3 +1,4 @@
+<p align="center">
   <img width="113.6" height="170.6" alt="ten-command" src="https://github.com/user-attachments/assets/e486f0c9-7c8a-4180-8d54-f08089a2997b" />
 </p>
 
@@ -55,6 +56,8 @@ The Ten Commandments establish the governing principles of Structural Intelligen
 
 **Tree #2: The Tree of Structural Intelligence** (*Understanding → Action → Outcome → Continuation*) serves as the operational visual model once a structure enters observation and analysis, demonstrating how those principles operate across time.
 
+**Tree #3: The Tree of Structural Stability & Endurance** (*Environment, Boundaries, Forces, Load, Stress & Stress Distribution*) maps how environmental forces act across boundaries and load, where strain concentrates across **Stress Distribution** (`Compression Zones`, `Tension Zones`, `Neutral Zones`, `Drift Zones`, and `Weak Boundaries`), how structures fork between adaptation and failure (`Stability` or `Collapse`), how `New Conditions` loop back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`).
+
 Within the operational tree:
 * Structures emerge from foundational principles and cross into observation.
 * Environmental pressure creates drift.
@@ -64,7 +67,8 @@ Within the operational tree:
 * Surviving structures become new structures, continuing the cycle.
 
 🌱 [SSI Tree of Origin (Tree #1)](tree-of-origin.md)  
-🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)  
+🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 
 ---
 
@@ -75,6 +79,8 @@ Within the operational tree:
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
 * 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+
+* 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
