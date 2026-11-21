@@ -293,7 +293,8 @@ The Atlas Dictionary serves as the foundational lexicon of the Structural Intell
 * **Amazon Edition:** [https://www.amazon.com/dp/B0GMWVVWL9](https://www.amazon.com/dp/B0GMWVVWL9)
 * **All Structural Intelligence Publications:** [https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
 * **Official Website:** [https://structuralintelligence.llc](https://structuralintelligence.llc)
-Divisions
+
+* Divisions
 * 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
 * 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
 * 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
