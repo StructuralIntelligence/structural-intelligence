@@ -1,88 +1,273 @@
-<img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
-
 # Tree Lab #1: Vocational & Workforce Intelligence
-**Framework Portability Test**
 
-> **Objective:** Determine whether the Structural Intelligence tree methodology can reveal useful diagnostic patterns in domains outside engineering and structural systems.  
-> **Result:** The framework naturally identified bottlenecks, shock zones, skill gaps, transferability dynamics, re-entry friction, and adaptation pathways within workforce development, suggesting portability across human and organizational systems.
+## Core Workforce Loop
 
+```text
+INDIVIDUAL
+    │
+    ▼
+ATTRIBUTES
+(Aptitudes, Interests, Traits)
+    │
+    ▼
+SKILLS ──► SKILL GAPS
+(Current Abilities)
+    │
+    ▼
+KNOWLEDGE
+(Education & Training)
+    │
+    ▼
+CAPABILITIES
+    │
+    ▼
+LABOR FORCE STRUCTURES & OPPORTUNITIES
+    │
+    ▼
+CAREER PATHWAYS
+    │
+    ▼
+EMPLOYMENT
+    │
+    ▼
+PERFORMANCE
+    │
+    ▼
+ADVANCEMENT
+    │
+    ▼
+VALUE CREATION
+    │
+    ▼
+NEW OPPORTUNITIES
+    │
+    ▼
+RECURSIVE LOOP
+(Cycle Repeats)
+```
 
+## Shock & Pivot Branch
 
-How to Read Tree Lab #1
-🎯 Core Question
-Question: Where can an individual create the greatest long-term value, stability, and fulfillment within the labor force—and endure sudden market disruptions?
+```text
+EMPLOYMENT
+    │
+    ▼
+LABOR MARKET SHOCK
+(Automation, Layoffs,
+Sector Shift, Economic Downturn)
+    │
+    ▼
+SHOCK ZONES
 
-1. Internal Foundation (Individual → Capabilities)
-Individual: The person at the center of the career structure, shaped by real-world context, constraints, and objectives.
+• Exposure
+• Runway
+• Transferability
+• Re-Entry Friction
 
-Attributes: Natural aptitudes, interests, temperament, and core traits that shape how a person learns and works.
+    │
+    ▼
 
-Skills: Practical, current abilities a person can execute today.
+RE-ROUTING / PIVOT
 
-Skill Gaps: Capabilities required for target pathways that are not yet acquired.
+    │
+    ▼
 
-Knowledge: Formal education, technical concepts, domain familiarity, and structured training.
+CAREER PATHWAYS
+```
 
-Capabilities: The combined operational power of attributes, skills, and knowledge applied to real work.
+Core Question
+Where can an individual create the greatest long-term value, stability, and fulfillment within the labor force while remaining resilient to labor market disruption?
 
-2. Market Interface & Execution (Opportunities → Value Creation)
-Labor Force Structures & Opportunities: The actual roles, industries, compensation models, and market openings where capabilities can plug in.
+1. Internal Foundation
+Individual
+The person at the center of the career structure, shaped by real-world context, constraints, and objectives.
 
-Career Pathways: Coherent multi-step trajectories (such as moving from foundational tech or problem-solving into cybersecurity, cloud, software, or AI systems) rather than isolated job hops.
+Attributes
+Natural aptitudes, interests, temperament, and core traits that shape how a person learns and works.
 
-Employment: Active placement within a role, business, contract, or enterprise structure.
+Skills
+Practical, current abilities a person can execute today.
 
-Performance: How reliably and effectively the individual delivers outcomes inside that structure.
+Skill Gaps
+Capabilities required for target pathways that have not yet been acquired.
 
-Advancement: Progression in responsibility, leverage, authority, or compensation over time.
+Knowledge
+Formal education, technical concepts, domain familiarity, and structured training.
 
-Value Creation: Measurable economic, operational, or human value produced for employers, clients, or communities.
+Capabilities
+The combined operational power of attributes, skills, and knowledge applied to real-world work.
 
-3. Disruption & Shock Mechanics (Labor Market Shock → Shock Zones)
-Labor Market Shock: A sudden or structural external disruption—such as layoffs, automation/AI shifts, industry contraction, regulatory changes, or economic downturns—that interrupts normal progression or forces re-routing back to Career Pathways.
+2. Market Interface & Execution
+Labor Force Structures & Opportunities
+The roles, industries, compensation models, and market openings where capabilities can be applied.
 
-Shock Zones: Specific areas of heightened vulnerability, buffer capacity, or recovery friction during or before a disruption:
+Career Pathways
+Coherent multi-step trajectories that connect capabilities to increasing value and opportunity.
 
-Exposure: Roles, tasks, or sectors directly threatened by automation, budget cuts, or structural downsizing.
+Employment
+Active placement within a role, business, contract, or enterprise structure.
 
-Runway: Financial reserves, time, support networks, and capacity that buy room to maneuver during transition.
+Performance
+How reliably and effectively the individual produces outcomes within that structure.
 
-Transferability: How readily existing skills, domain judgment, and experience carry over into another structure or role without starting from scratch.
+Advancement
+Growth in responsibility, authority, leverage, compensation, or influence.
 
-Re-Entry Friction: Obstacles slowing or blocking recovery—such as hiring freezes, credential/licensing lag, changing tech requirements, experience/age bias, or geographic mismatch.
+Value Creation
+Measurable economic, operational, organizational, or community value produced.
 
-Ripple / Contagion Note: Secondary ripple effects across adjacent teams, suppliers, or local markets can also be tracked as contagion/ripple dynamics when mapping broader organizational or regional impacts.
+3. Disruption & Shock Mechanics
+Labor Market Shock
+A sudden or structural disruption that interrupts normal progression and forces reassessment of career pathways.
 
-4. Diagnostic Zones (Where Alignment or Friction Lives)
-Talent Zones: Natural strengths with high development potential.
+Examples:
 
-Skill Gaps: Capabilities required for target pathways that are not yet acquired.
+Automation
+Artificial Intelligence displacement
+Layoffs
+Industry contraction
+Regulatory change
+Economic downturns
+Shock Zones
+Exposure
+The degree to which a role, task, industry, or sector is threatened by disruption.
 
-Opportunity Zones: High-demand roles or structures that match existing or near-term capabilities.
+Runway
+Available time, financial reserves, support networks, and flexibility during transition.
 
-Drift Zones: Roles or paths gradually losing alignment with personal fit, capability growth, or market demand.
+Transferability
+The ability to carry valuable skills, knowledge, and experience into a new role or industry.
 
-Bottleneck Zones: Concrete gatekeepers—licensing, degrees, certifications, transportation, relocation, or experience thresholds—that block forward movement.
+Re-Entry Friction
+Barriers that slow recovery and reemployment.
 
-Growth Zones: High-leverage areas where modest, focused investment produces disproportionate career advancement.
+Examples:
 
-5. Recursive Loop (New Opportunities → Cycle Repeats)
-New Opportunities: Value creation and advancement unlock stronger roles, wider networks, higher leverage, and greater resilience—feeding back into the cycle as the starting baseline evolves.
+Hiring freezes
+Credential requirements
+Licensing delays
+Geographic limitations
+Technology changes
+Experience barriers
+Ripple / Contagion Effects
+Secondary impacts that spread beyond the initially disrupted role into adjacent teams, suppliers, industries, or communities.
+
+4. Diagnostic Zones
+Talent Zones
+Natural strengths with strong development potential.
+
+Skill Gaps
+Capabilities required for advancement that have not yet been acquired.
+
+Opportunity Zones
+High-demand roles and structures aligned with current or near-term capabilities.
+
+Drift Zones
+Areas where career trajectory is becoming misaligned with personal strengths, growth, or market demand.
+
+Bottleneck Zones
+Specific barriers restricting forward movement.
+
+Examples:
+
+Degrees
+Certifications
+Licenses
+Transportation
+Relocation requirements
+Experience thresholds
+Growth Zones
+High-leverage improvements where relatively small investments create disproportionate advancement.
+
+5. Recursive Loop
+New Opportunities
+Value creation and advancement unlock:
+
+Better roles
+Larger networks
+Greater leverage
+Higher compensation
+Increased resilience
+These opportunities become the starting foundation for the next cycle of growth.
 
 Practical Application
-Audit the Foundation: Start at Individual and Capabilities to see what a person actually brings and where Talent Zones, Skill Gaps, and Bottleneck Zones sit.
+1. Audit the Foundation
+Evaluate:
 
-Target High-Leverage Paths: Map against Labor Force Structures & Opportunities and Career Pathways to locate Opportunity Zones and Growth Zones rather than chasing random job titles.
+Individual
+Attributes
+Skills
+Knowledge
+Capabilities
+Identify:
 
-Stress-Test for Resilience: Evaluate for Drift Zones and Labor Market Shock to spot misalignment early and gauge Exposure, Runway, Transferability, and Re-Entry Friction before—or right after—a disruption hits.
+Talent Zones
+Skill Gaps
+Bottleneck Zones
+2. Target High-Leverage Paths
+Map capabilities against:
 
-Compound Stability: Track Value Creation and New Opportunities so each cycle increases resilience, capability, and future opportunity instead of compounding structural fragility (aligning with the principles in the Ten Commandments of Structural Intelligence and Tree #3: Tree of Structural Stability & Endurance).
+Labor Force Structures & Opportunities
+Career Pathways
+Identify:
 
+Opportunity Zones
+Growth Zones
+Avoid chasing isolated job titles without strategic progression.
+
+3. Stress-Test for Resilience
+Evaluate:
+
+Drift Zones
+Labor Market Shock Risk
+Measure:
+
+Exposure
+Runway
+Transferability
+Re-Entry Friction
+before disruption occurs whenever possible.
+
+4. Compound Stability
+Track:
+
+Performance
+Advancement
+Value Creation
+New Opportunities
+The objective is to compound resilience, capability, and future opportunity rather than compound structural fragility.
+
+This aligns with:
+
+Ten Commandments of Structural Intelligence
+Tree #3: Structural Stability & Endurance
 Locked Tree Lab #1 Handoff Line
-Markdown
-- **Tree Lab #1:** Vocational & Workforce Intelligence (*Framework Portability Test*)
-| `Individual → Attributes → Skills (Skill Gaps) → Knowledge → Capabilities → Labor Force Structures & Opportunities → Career Pathways → Employment → Performance → Advancement → Value Creation → New Opportunities → Recursive Loop` (paired with `Labor Market Shock → Shock Zones [Exposure, Runway, Transferability, Re-Entry Friction]` re-routing back to `Career Pathways`)
-| `Tree Lab #1 – Labor Market Shock.md`
- ([https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md))
+Tree Lab #1: Vocational & Workforce Intelligence (Framework Portability Test)
 
-<FollowUp label="Want me to add a Related Pages footer linking Tree Lab #1 to Trees #1–#3 and the README?" query="Add a Related Pages section to Tree Lab #1 linking to Tree #1, Tree #2, Tree #3, and the README."/>
+Individual
+→ Attributes
+→ Skills (Skill Gaps)
+→ Knowledge
+→ Capabilities
+→ Labor Force Structures & Opportunities
+→ Career Pathways
+→ Employment
+→ Performance
+→ Advancement
+→ Value Creation
+→ New Opportunities
+→ Recursive Loop
+
+Paired With:
+
+Labor Market Shock
+→ Shock Zones
+    • Exposure
+    • Runway
+    • Transferability
+    • Re-Entry Friction
+→ Re-Routing / Pivot
+→ Career Pathways
+
+Reference File:
+Tree Lab #1 - Labor Market Shock.md
