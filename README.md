@@ -63,16 +63,19 @@ Structural Intelligence
 - Structural Intelligence Universe
 - Structural Intelligence Canon
 🌱 Tree #1: The SSI Tree of Origin & 🌳 Tree #2: The Tree of Structural Intelligence
-Tree #1: The SSI Tree of Origin establishes where structure comes from (Supreme Super Intelligence (SSI), Existence, Natural Law,
+Tree #1: The SSI Tree of Origin establishes where structure comes from (Supreme Super Intelligence (SSI), Existence,
+ Natural Law,
 Structure, and Structural Formations), where visibility ends (Structural Horizon and Structural Blindness),
-how mechanics hold across scale (Scale Invariance), and how structures enter Observation before operational analysis begins.
+how mechanics hold across scale (Scale Invariance), and how structures enter Observation before operational analysis
+begins.
 
 Explore the SSI Tree of Origin (Tree #1)
 
-Tree #2: The Tree of Structural Intelligence serves as the canonical operational map once a structure enters observation and analysis.
-While the Atlas Dictionary of Structural Intelligence defines the language of Structural Intelligence, the Tree illustrates how
-foundational principles develop into structural analysis, record drift through time, diverge across preservation, transformation,
-or exploitation pathways, and ultimately produce the outcomes that determine survival and evolution.
+Tree #2: The Tree of Structural Intelligence serves as the canonical operational map once a structure enters observation
+ and analysis.
+While the Atlas Dictionary of Structural Intelligence defines the language of Structural Intelligence, the Tree illustrates
+how  foundational principles develop into structural analysis, record drift through time, diverge across preservation,
+ transformation, or exploitation pathways, and ultimately produce the outcomes that determine survival and evolution.
 
 Explore the Tree of Structural Intelligence (Tree #2)
 
@@ -80,15 +83,16 @@ Explore the Tree of Structural Intelligence (Tree #2)
 Tree #3: The Tree of Structural Stability & Endurance extends the doctrine from origin and analysis into real-world pressure and
 endurance (Environment → Boundaries → Forces → Load → Stress → Stress Distribution → Adaptation or Failure → Stability or Collapse →
  New Conditions). It highlights Stress Distribution—where strain concentrates across Compression Zones, Tension Zones, Neutral Zones,
-Drift Zones, and Weak Boundaries—and connects domain subtrees to diagnostic assessments and specialized toolkits (Subtree to Toolkit Pathway).
+Drift Zones, and Weak Boundaries—and connects domain subtrees to diagnostic assessments and specialized toolkits (Subtree to Toolkit
+ Pathway).
 
 Explore the Tree of Structural Stability & Endurance (Tree #3)
 
 🧪 Tree Lab #1: Vocational & Workforce Intelligence (Labor Market Shock)
 Tree Lab #1: Vocational & Workforce Intelligence tests the portability of the Structural Intelligence tree methodology across human and
 organizational systems—mapping how Individual → Attributes → Skills → Knowledge → Capabilities interface with Labor Force Structures &
-Opportunities, Career Pathways, Employment, Performance, Advancement, Value Creation, and a recursive New Opportunities loop under Labor Market Shock
- and Shock Zones (Exposure, Runway, Transferability, Re-Entry Friction).
+Opportunities, Career Pathways, Employment, Performance, Advancement, Value Creation, and a recursive New Opportunities loop under
+Labor Market Shock and Shock Zones (Exposure, Runway, Transferability, Re-Entry Friction).
 
 Explore Tree Lab #1: Labor Market Shock
 
