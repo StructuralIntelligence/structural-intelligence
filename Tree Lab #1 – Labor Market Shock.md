@@ -1,8 +1,23 @@
-# Tree Lab #1: Vocational & Workforce Intelligence
+<img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
 
-## Core Workforce Loop
+================================================================================
+TREE LAB #1: VOCATIONAL & WORKFORCE INTELLIGENCE
+================================================================================
 
-```text
+                          LABOR MARKET SHOCK
+                        (Automation, Layoffs,
+                      Sector Shift, Downturn)
+                                   │
+                                   ▼
+                             SHOCK ZONES
+                  (Exposure, Runway, Transferability,
+                         Re-Entry Friction)
+                                   │
+                                   ▼
+                            RE-ROUTING / PIVOT
+                                   │
+                                   ▼
+
 INDIVIDUAL
     │
     ▼
@@ -11,7 +26,6 @@ ATTRIBUTES
     │
     ▼
 SKILLS ──► SKILL GAPS
-(Current Abilities)
     │
     ▼
 KNOWLEDGE
@@ -24,7 +38,7 @@ CAPABILITIES
 LABOR FORCE STRUCTURES & OPPORTUNITIES
     │
     ▼
-CAREER PATHWAYS
+CAREER PATHWAYS ◄──────────────────────────────┘
     │
     ▼
 EMPLOYMENT
@@ -44,36 +58,6 @@ NEW OPPORTUNITIES
     ▼
 RECURSIVE LOOP
 (Cycle Repeats)
-```
-
-## Shock & Pivot Branch
-
-```text
-EMPLOYMENT
-    │
-    ▼
-LABOR MARKET SHOCK
-(Automation, Layoffs,
-Sector Shift, Economic Downturn)
-    │
-    ▼
-SHOCK ZONES
-
-• Exposure
-• Runway
-• Transferability
-• Re-Entry Friction
-
-    │
-    ▼
-
-RE-ROUTING / PIVOT
-
-    │
-    ▼
-
-CAREER PATHWAYS
-```
 
 Core Question
 Where can an individual create the greatest long-term value, stability, and fulfillment within the labor force while remaining resilient to labor market disruption?
