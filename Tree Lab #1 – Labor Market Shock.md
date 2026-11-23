@@ -1,8 +1,6 @@
 <img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
 
 
-<img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
-
 Tree Lab #1: Vocational & Workforce Intelligence
 Tree Lab #1 applies the Structural Intelligence methodology to workforce development, career planning, labor market disruption, and resilience. The objective is to determine whether the Structural Intelligence framework can identify recurring patterns of capability development, opportunity alignment, career advancement, and response to labor market shocks.
 
