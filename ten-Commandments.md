@@ -1,3 +1,5 @@
+<img width="1248" height="832" alt="OIG4 (1)" src="https://github.com/user-attachments/assets/00771517-ccce-4bc2-b387-a80d1390119b" />
+
 # Ten Commandments of Structural Intelligence
 
 *The foundational doctrinal principles governing the architecture, stability, and evolution of systems within the Structural Intelligence framework.*
