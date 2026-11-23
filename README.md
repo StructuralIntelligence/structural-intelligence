@@ -134,11 +134,12 @@ The framework organizes knowledge through doctrine, dictionaries, educational ma
 Core Structural Intelligence Concepts
 Structural Intelligence examines how structures emerge, operate, and respond to environmental pressure.
 Through structural analysis, patterns, relationships, dependencies, and behavioral systems become visible.
- As structures experience pressure, they may encounter drift, require adaptation, achieve stabilization, or evolve into new forms.
+As structures experience pressure, they may encounter drift, require adaptation, achieve stabilization,
+or evolve into new forms.
 
-The framework studies preservation-oriented, transformation-oriented, and extraction-oriented applications of structural knowledge,
-recognizing that the same understanding capable of strengthening a structure can also be used to exploit it. This principle is known
- as the Structural Intelligence Paradox.
+The framework studies preservation-oriented, transformation-oriented, and extraction-oriented applications
+ of structural knowledge, recognizing that the same understanding capable of strengthening a structure can
+ also be used to exploit it. This principle is known as the Structural Intelligence Paradox.
 
 Official Resources
 Official Website
@@ -168,8 +169,8 @@ Scott J. Angell Sr. Author Storefront on Amazon
 
 © 2026 Structural Intelligence LLC — Zenith Division Update
 <ElicitationsGroup message="Next steps for your README update:">
-  <Elicitation label="Add a quick-reference table of all trees and labs" query="Add a concise Markdown table summarizing
-Trees #1–#3 and Tree Lab #1 into the Structural Intelligence README."/>
-  <Elicitation label="Generate a commit message and PR summary" query="Write a clear Git commit message and pull request
- summary for adding Tree Lab #1 to the Structural Intelligence README."/>
+  <Elicitation label="Add a quick-reference table of all trees and labs" query="Add a concise Markdown table
+summarizing Trees #1–#3 and Tree Lab #1 into the Structural Intelligence README."/>
+  <Elicitation label="Generate a commit message and PR summary" query="Write a clear Git commit message and
+ pull request summary for adding Tree Lab #1 to the Structural Intelligence README."/>
 </ElicitationsGroup>
