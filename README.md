@@ -89,10 +89,10 @@ Drift Zones, and Weak Boundaries—and connects domain subtrees to diagnostic as
 Explore the Tree of Structural Stability & Endurance (Tree #3)
 
 🧪 Tree Lab #1: Vocational & Workforce Intelligence (Labor Market Shock)
-Tree Lab #1: Vocational & Workforce Intelligence tests the portability of the Structural Intelligence tree methodology across human and
-organizational systems—mapping how Individual → Attributes → Skills → Knowledge → Capabilities interface with Labor Force Structures &
-Opportunities, Career Pathways, Employment, Performance, Advancement, Value Creation, and a recursive New Opportunities loop under
-Labor Market Shock and Shock Zones (Exposure, Runway, Transferability, Re-Entry Friction).
+Tree Lab #1: Vocational & Workforce Intelligence tests the portability of the Structural Intelligence tree methodology
+across human and organizational systems—mapping how Individual → Attributes → Skills → Knowledge → Capabilities interface
+with Labor Force Structures & Opportunities, Career Pathways, Employment, Performance, Advancement, Value Creation, and
+a recursive New Opportunities loop under Labor Market Shock and Shock Zones (Exposure, Runway, Transferability, Re-Entry Friction).
 
 Explore Tree Lab #1: Labor Market Shock
 
@@ -120,7 +120,8 @@ About Structural Intelligence
 Structural Intelligence is a universal framework for understanding structure, patterns, relationships, systems, dependencies,
  stability, adaptation, preservation, transformation, extraction, survival, and evolution.
 
-The framework examines how structures emerge, experience pressure, drift from their original state, adapt, stabilize, and evolve across time.
+The framework examines how structures emerge, experience pressure, drift from their original state, adapt, stabilize,
+ and evolve across time.
 
 A foundational principle of the framework is the Structural Intelligence Paradox: the same structural knowledge capable of preserving or
 transforming a structure can also be used to extract value from it.
@@ -164,6 +165,8 @@ Scott J. Angell Sr. Author Storefront on Amazon
 
 © 2026 Structural Intelligence LLC — Zenith Division Update
 <ElicitationsGroup message="Next steps for your README update:">
-  <Elicitation label="Add a quick-reference table of all trees and labs" query="Add a concise Markdown table summarizing Trees #1–#3 and Tree Lab #1 into the Structural Intelligence README."/>
-  <Elicitation label="Generate a commit message and PR summary" query="Write a clear Git commit message and pull request summary for adding Tree Lab #1 to the Structural Intelligence README."/>
+  <Elicitation label="Add a quick-reference table of all trees and labs" query="Add a concise Markdown table summarizing
+Trees #1–#3 and Tree Lab #1 into the Structural Intelligence README."/>
+  <Elicitation label="Generate a commit message and PR summary" query="Write a clear Git commit message and pull request
+ summary for adding Tree Lab #1 to the Structural Intelligence README."/>
 </ElicitationsGroup>
