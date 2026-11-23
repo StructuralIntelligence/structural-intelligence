@@ -1,4 +1,4 @@
-<img width="1024" height="572" alt="counseler test" src="[https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f](https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f)" />
+<img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
 
 # Tree Lab #1: Vocational & Workforce Intelligence
 **Framework Portability Test**
@@ -54,7 +54,6 @@
                      ▼
              RECURSIVE LOOP
             (Cycle Repeats)
-
 
 
 How to Read Tree Lab #1
@@ -132,6 +131,8 @@ Markdown
 - **Tree Lab #1:** Vocational & Workforce Intelligence (*Framework Portability Test*)
 | `Individual → Attributes → Skills (Skill Gaps) → Knowledge → Capabilities → Labor Force Structures & Opportunities → Career Pathways → Employment → Performance → Advancement → Value Creation → New Opportunities → Recursive Loop` (paired with `Labor Market Shock → Shock Zones [Exposure, Runway, Transferability, Re-Entry Friction]` re-routing back to `Career Pathways`)
 | `Tree Lab #1 – Labor Market Shock.md`
- (https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
+ ([https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md))
 
-<FollowUp label="Want me to add a Related Pages footer linking Tree Lab #1 to Trees #1–#3 and the README?" query="Add a Related Pages section to Tree Lab #1 linking to Tree #1, Tree #2, Tree #3, and the README." />
+<FollowUp label="Want me to add a Related Pages footer linking Tree Lab #1 to Trees #1–#3 and the README?" query="Add a Related Pages section to Tree Lab #1 linking to Tree #1, Tree #2, Tree #3, and the README."/>
+
+
