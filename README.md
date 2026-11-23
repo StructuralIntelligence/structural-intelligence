@@ -141,19 +141,16 @@ Official Resources
 Official Website
 https://structuralintelligence.llc
 
-Divisions
-## Related Pages
-
-
-🌩 Sentinel Overview
-📋 Sentinel Menu
-📚 Atlas Overview
-📖 Atlas Library
-🚀 Rare Air Overview
-🛡 CrownShield Overview
-⚙ Engineering Standards Overview
-🎵 Cadence Overview
-🌌 Zenith Overview
+---Divisions
+* 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
+* 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
+* 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
+* 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
+* 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
+* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
+* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
+* 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
+* 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
 
 Publications
 Scott J. Angell Sr. Author Storefront on Amazon
