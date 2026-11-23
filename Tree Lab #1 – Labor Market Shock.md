@@ -81,7 +81,8 @@ Value Creation: Measurable economic, operational, or human value produced for em
 
 3. Disruption & Shock Mechanics (Labor Market Shock → Shock Zones)
 Labor Market Shock: A sudden or structural external disruption—such as layoffs, automation/AI shifts, industry
-contraction, regulatory changes, or economic downturns—that interrupts normal progression or forces re-routing back to Career Pathways.
+contraction, regulatory changes, or economic downturns—that interrupts normal progression or forces re-routing back to
+Career Pathways.
 
 Shock Zones: Specific areas of heightened vulnerability, buffer capacity, or recovery friction during or before a disruption:
 
