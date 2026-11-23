@@ -29,7 +29,7 @@ Welcome to the [Structural Intelligence Documentation Portal](https://github.com
 
 ### 🌳 Framework Architecture
 
-* [SSI Tree of Origin (Tree #1)](tree-of-origin.md)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20of%20Origin%20Structure%20Intelligence.md)
+* [(tree-of-origin.md)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20of%20Origin%20Structure%20Intelligence.md)
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 * [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [Tree Lab #1: Vocational & Workforce Intelligence — Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
