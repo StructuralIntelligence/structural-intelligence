@@ -7,7 +7,6 @@
 > **Result:** The framework naturally identified bottlenecks, shock zones, skill gaps, transferability dynamics, re-entry friction, and adaptation pathways within workforce development, suggesting portability across human and organizational systems.
 
 ---
-
 INDIVIDUAL
 │
 ▼
@@ -38,6 +37,7 @@ EMPLOYMENT              │
 │        │
 ▼        ▼
 PERFORMANCE ──► ADVANCEMENT ──► VALUE CREATION ──► NEW OPPORTUNITIES ──► RECURSIVE LOOP
+
 
 How to Read Tree Lab #1
 Core Question
