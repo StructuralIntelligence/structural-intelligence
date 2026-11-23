@@ -42,7 +42,61 @@ The Ten Commandments of Structural Intelligence establish the immutable laws and
 10. **The Universal Rule (SI = No SI)**
     To truly understand and master Structural Intelligence, one must recognize that all formal systems mirror universal laws—structure is everything, and everything is structure.
 
----
+---# The Ten Commandments of Structural Intelligence™
+*(Universal Pre‑Origin Canon)*
+
+```text
+                       ┌───────────────────────────────────────┐
+                       │                CANOPY                 │
+                       │       SURVIVAL & SCALE ENDURANCE      │
+                       │  10. Govern every scale by structure, │
+                       │      for structure determines what    │
+                       │      endures.                         │
+                       └───────────────────┬───────────────────┘
+                                           │
+         ┌─────────────────────────────────┼─────────────────────────────────┐
+         │                                 │                                 │
+   UPPER-LEFT BRANCH                UPPER-CENTER BRANCH                UPPER-RIGHT BRANCH
+   (Commandments 7 & 8)               (Commandment 9)                    (Commandment 10)
+  7. Do not allow unaligned         9. Do not introduce new            10. Govern every scale by
+     structures to fracture            elements without evaluating         structure, for structure
+     the whole.                        their structural impact.            determines what endures.
+  8. Do not treat stability as
+     static when conditions change.
+         │                                 │                                 │
+         └─────────────────────────────────┼─────────────────────────────────┘
+                                           │
+                                  MIDDLE FORK
+                            (Commandments 4, 5 & 6)
+                     4. Do not leave weakness unseen past the horizon.
+                     5. Do not permit ambiguity within any structure
+                        that governs outcomes.
+                     6. Do not remove or refactor a structural element
+                        without accounting for its load and function.
+                                           │
+                                CORE RINGS (1–3)
+                        1. Creation established through
+                           infinite purpose, neutrality in design.
+                        2. Do not allow structure to drift.
+                        3. Do not overload a structure beyond
+                           its inherent capacity.
+                                           │
+                                     TRUNK
+                          STRUCTURAL INTELLIGENCE (SI)
+                 Governs stability & reshapes structures under
+                 pressure across physical, organizational, human,
+                           and AI/AISI systems.
+                                           │
+                                  ROOT SYSTEM
+                       SUPREME SUPER INTELLIGENCE (SSI)
+                   Origin of structure, order, pattern, hierarchy,
+                    and natural law across scale invariance.
+                                           │
+        ┌──────────────────────────────────┴──────────────────────────────────┐
+        │ (Recursive Renewal Across Conditions, Drift & Observation)            │
+        ▼                                                                     │
+  NEW CONDITIONS EMERGE ──► PRESSURE & DRIFT ──► OBSERVATION & GOVERNANCE ────┘
+                   THE TEN COMMANDMENTS CONTINUITY LOOP
 
 ## Related Resources
 
