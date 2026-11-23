@@ -1,4 +1,4 @@
-<img width="1024" height="572" alt="counseler test" src="https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f" />
+<img width="1024" height="572" alt="counseler test" src="[https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f](https://github.com/user-attachments/assets/93f21565-8595-4d89-a26e-acdd888c509f)" />
 
 # Tree Lab #1: Vocational & Workforce Intelligence
 **Framework Portability Test**
@@ -6,42 +6,58 @@
 > **Objective:** Determine whether the Structural Intelligence tree methodology can reveal useful diagnostic patterns in domains outside engineering and structural systems.  
 > **Result:** The framework naturally identified bottlenecks, shock zones, skill gaps, transferability dynamics, re-entry friction, and adaptation pathways within workforce development, suggesting portability across human and organizational systems.
 
----
-INDIVIDUAL
-│
-▼
-ATTRIBUTES (Aptitudes, Interests, Traits)
-│
-▼
-SKILLS (Current Abilities) ──► [Skill Gaps]
-│
-▼
-KNOWLEDGE (Education & Training)
-│
-▼
-CAPABILITIES
-│
-▼
-LABOR FORCE STRUCTURES & OPPORTUNITIES
-│
-▼
-CAREER PATHWAYS ◄──────┐
-│                    │
-▼                    │ (Re-routing / Pivot)
-EMPLOYMENT              │
-│                    │
-├──► [LABOR MARKET SHOCK] (Automation, Layoffs, Sector Shift, Macro Downturn)
-│        │
-│        ▼
-│   [SHOCK ZONES] (Exposure, Runway, Transferability, Re-Entry Friction)
-│        │
-▼        ▼
-PERFORMANCE ──► ADVANCEMENT ──► VALUE CREATION ──► NEW OPPORTUNITIES ──► RECURSIVE LOOP
+```text
+================================================================================
+    TREE LAB #1: VOCATIONAL & WORKFORCE INTELLIGENCE
+================================================================================
 
+  [CORE WORKFORCE LOOP]                        [SHOCK & PIVOT BRANCH]
+
+               INDIVIDUAL                           EMPLOYMENT
+                     │                                   │
+                     ▼                                   ▼
+               ATTRIBUTES                      [LABOR MARKET SHOCK]
+         (Aptitudes, Interests, Traits)       (Automation, Layoffs,
+                     │                       Sector Shift, Macro Downturn)
+                     ▼                                   │
+                 SKILLS ──► [Skill Gaps]               ▼
+             (Current Abilities)                  [SHOCK ZONES]
+                     │                       • Exposure
+                     ▼                       • Runway
+                KNOWLEDGE                    • Transferability
+           (Education & Training)            • Re-Entry Friction
+                     │                                   │
+                     ▼                                   │
+               CAPABILITIES                            │
+                     │                                   │
+                     ▼                                   │
+     LABOR FORCE STRUCTURES & OPPORTUNITIES              │
+                     │                                   │
+                     ▼                                   │
+             CAREER PATHWAYS ◄───────────────────────────┘
+                     │                         (Re-routing / Pivot)
+                     ▼
+               EMPLOYMENT
+                     │
+                     ▼
+               PERFORMANCE
+                     │
+                     ▼
+               ADVANCEMENT
+                     │
+                     ▼
+              VALUE CREATION
+                     │
+                     ▼
+            NEW OPPORTUNITIES
+                     │
+                     ▼
+             RECURSIVE LOOP
+            (Cycle Repeats)
 
 How to Read Tree Lab #1
-Core Question
-Where can an individual create the greatest long-term value, stability, and fulfillment within the labor force—and endure sudden market disruptions?
+🎯 Core Question
+Question: Where can an individual create the greatest long-term value, stability, and fulfillment within the labor force—and endure sudden market disruptions?
 
 1. Internal Foundation (Individual → Capabilities)
 Individual: The person at the center of the career structure, shaped by real-world context, constraints, and objectives.
@@ -49,6 +65,8 @@ Individual: The person at the center of the career structure, shaped by real-wor
 Attributes: Natural aptitudes, interests, temperament, and core traits that shape how a person learns and works.
 
 Skills: Practical, current abilities a person can execute today.
+
+Skill Gaps: Capabilities required for target pathways that are not yet acquired.
 
 Knowledge: Formal education, technical concepts, domain familiarity, and structured training.
 
@@ -80,7 +98,7 @@ Transferability: How readily existing skills, domain judgment, and experience ca
 
 Re-Entry Friction: Obstacles slowing or blocking recovery—such as hiring freezes, credential/licensing lag, changing tech requirements, experience/age bias, or geographic mismatch.
 
-(Note: Secondary ripple effects across adjacent teams, suppliers, or local markets can also be tracked as contagion/ripple dynamics when mapping broader organizational or regional impacts.)
+Ripple / Contagion Note: Secondary ripple effects across adjacent teams, suppliers, or local markets can also be tracked as contagion/ripple dynamics when mapping broader organizational or regional impacts.
 
 4. Diagnostic Zones (Where Alignment or Friction Lives)
 Talent Zones: Natural strengths with high development potential.
@@ -107,3 +125,11 @@ Stress-Test for Resilience: Evaluate for Drift Zones and Labor Market Shock to s
 
 Compound Stability: Track Value Creation and New Opportunities so each cycle increases resilience, capability, and future opportunity instead of compounding structural fragility (aligning with the principles in the Ten Commandments of Structural Intelligence and Tree #3: Tree of Structural Stability & Endurance).
 
+Locked Tree Lab #1 Handoff Line
+Markdown
+- **Tree Lab #1:** Vocational & Workforce Intelligence (*Framework Portability Test*)
+| `Individual → Attributes → Skills (Skill Gaps) → Knowledge → Capabilities → Labor Force Structures & Opportunities → Career Pathways → Employment → Performance → Advancement → Value Creation → New Opportunities → Recursive Loop` (paired with `Labor Market Shock → Shock Zones [Exposure, Runway, Transferability, Re-Entry Friction]` re-routing back to `Career Pathways`)
+| `Tree Lab #1 – Labor Market Shock.md`
+ (https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
+
+<FollowUp label="Want me to add a Related Pages footer linking Tree Lab #1 to Trees #1–#3 and the README?" query="Add a Related Pages section to Tree Lab #1 linking to Tree #1, Tree #2, Tree #3, and the README." />
