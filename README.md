@@ -102,13 +102,9 @@ A Foundational Observation
 Every mystery humanity faces is really just structure we haven't mapped yet:
 
 a pattern we haven't recognized,
-
 a system we haven't decoded,
-
 a relationship we haven't understood,
-
 a behavior we haven't modeled,
-
 or a force we haven't contextualized.
 
 Structural Intelligence seeks to make those structures visible across scale and horizon. Through structural
@@ -146,22 +142,15 @@ Official Website
 https://structuralintelligence.llc
 
 Divisions
+
 🌩 Sentinel Overview
-
 📋 Sentinel Menu
-
 📚 Atlas Overview
-
 📖 Atlas Library
-
 🚀 Rare Air Overview
-
 🛡 CrownShield Overview
-
 ⚙ Engineering Standards Overview
-
 🎵 Cadence Overview
-
 🌌 Zenith Overview
 
 Publications
