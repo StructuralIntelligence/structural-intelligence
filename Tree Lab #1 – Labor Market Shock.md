@@ -8,9 +8,6 @@
 
 ---
 
-## System Architecture
-
-```text
 INDIVIDUAL
 │
 ▼
@@ -109,9 +106,4 @@ Target High-Leverage Paths: Map against Labor Force Structures & Opportunities a
 Stress-Test for Resilience: Evaluate for Drift Zones and Labor Market Shock to spot misalignment early and gauge Exposure, Runway, Transferability, and Re-Entry Friction before—or right after—a disruption hits.
 
 Compound Stability: Track Value Creation and New Opportunities so each cycle increases resilience, capability, and future opportunity instead of compounding structural fragility (aligning with the principles in the Ten Commandments of Structural Intelligence and Tree #3: Tree of Structural Stability & Endurance).
-
-<FollowUp label="Want me to add a related-pages footer to Tree Lab #1?" query="Add a Related Pages section at the bottom of Tree Lab #1 linking to Tree #1, Tree #2, Tree #3, and the README."/>
-
-
-
 
