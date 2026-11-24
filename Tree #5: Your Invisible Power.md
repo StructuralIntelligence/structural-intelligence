@@ -1,41 +1,44 @@
+<img width="765" height="1024" alt="invisable power" src="https://github.com/user-attachments/assets/5cfa0914-430c-4243-a11b-3e801e721331" />
 
-# Structural Intelligence
+# Tree #5: Your Invisible Power
+### The Internal Architecture Tree — The Architecture of Human Transformation
 
-### Start
-* [[Home]]
-* [[Navigation‐and‐Knowledge‐Map]]
+![Tree #5: Your Invisible Power — The Internal Architecture Tree](tree-5-your-invisible-power.png)
 
-### Foundation
-* [[What-Is-Structural-Intelligence]]
-* [[Ten-Commandments-of-Structural-Intelligence]]
+> **TREE #5 — YOUR INVISIBLE POWER**  
+> **The Internal Architecture Tree**  
+> *The Architecture of Human Transformation*  
+>
+> **Foundation → Stability → Mobility → Ascent → Destiny → Structural Infinity**  
+> **Build Structure → Hold Structure → Move Structure → Expand Structure → Perpetuate Structure**  
+>
+> A complete structural pathway describing the progression of human development from awareness, alignment, and coherence to sovereignty, lineage, continuum, and Structural Infinity.  
+>
+> *The End Becomes The Beginning.*
 
-### Core
-* [[Structural-Intelligence-Doctrine]]
-* [Book 1: If It Contains Structure, It Belongs to Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Book-1-%E2%80%90If-It-Contains-Structure,-It-Belongs-to-Structural-Intelligence)
-* [[Atlas-Dictionary-of-Structural-Intelligence]]
+---
 
-### Architecture
-* [[Structural-Intelligence-Universe]]
-* [[Structural-Intelligence-Canon]]
-* [[Structural-Intelligence-Divisions]]
+## Three-Layer System Overview
 
-### Resources
-* [Structural Intelligence](https://structuralintelligence.llc)
-* [Universal Tree Diagram](https://structuralintelligence.llc/universal-tree.png)
-* [SSI Tree of Origin (Tree #1)](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Tree-of-origin)
-* [Tree of Structural Intelligence (Tree #2)](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Tree-of-Structural-Intelligence)
-* [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/wiki/The-Tree-of-Structural-Stability-&-Endurance)
-* [Structural Ascension Tree (Tree #4)](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Structural-Ascension-Tree)
-* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Tree-%235:-Your-Invisible-Power)
-* [Tree Lab #1: Labor Market Shock Tree](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Tree-Lab-%231:-LABOR-MARKET-SHOCK-TREE)
-* [Tree Lab #2: Ten Commandments of Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/wiki/Tree-Lab-%232-%E2%80%90Ten-Commandments-of-Structural-Intelligence)
-* [SI=no-SI](https://structuralintelligence.llc/without-si=no-si)
+| Layer | Component | Scope |
+| :--- | :--- | :--- |
+| **Layer 1** | **The Book** | 56 Chapters across five structural realms |
+| **Layer 2** | **The Diagnostic System** | 56 Navigators mapping internal structural patterns |
+| **Layer 3** | **The Governance System** | The Structural Intelligence Transmission Protocol |
 
+---
 
+## The Architecture at a Glance
 
+* **Foundation (1–12):** Who you are when nothing is at stake — *Build Structure*
+* **Stability (13–24):** Who you are when everything is at stake — *Hold Structure*
+* **Mobility (25–36):** How you move when life shifts — *Move Structure*
+* **Ascent (37–48):** How you rise when your structure activates — *Expand Structure*
+* **Destiny (49–56):** How your architecture shapes the future — *Perpetuate Structure*
 
+### Canonical Structural Map
 
-
-
-
-
+```text
+Identity → Stability → Mobility → Ascent → Destiny
+Self     → Structure → Coherence → Field  → Infinity
+Edges    → Boundaries → Motion   → Altitude → No Edges
