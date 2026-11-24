@@ -1,4 +1,5 @@
 <img width="512" height="768" alt="Storm‑lit" src="https://github.com/user-attachments/assets/dc456155-2750-4c9b-8188-b9368a8d560f" />
+
 # YOUR INVISIBLE POWER
 
 ### The Architecture of Structural Intelligence
