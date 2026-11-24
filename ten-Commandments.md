@@ -104,6 +104,18 @@ The Ten Commandments of Structural Intelligence establish the immutable laws and
 
 * 📘 [What Is Structural Intelligence?](what-is-structural-intelligence.md)
 
+Divisions
+* 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
+* 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
+* 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
+* 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
+* 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
+* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
+* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
+* 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
+* 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
+
+
 * 📦 [Full Inventory](https://structuralintelligence.llc/full-inventory.html)
 
 ---
