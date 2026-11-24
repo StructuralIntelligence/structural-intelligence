@@ -76,7 +76,7 @@
   * [Chapter 30 — The Rise That Becomes Self Reinforcing](#chapter-30-the-rise-that-becomes-self-reinforcing)
   * [Chapter 31 — Effortless Influence](#chapter-31-effortless-influence)
   * [Chapter 32 — Structural Gravity](#chapter-32-structural-gravity)
-  * [Chapter 33 — Structura](#chapter-33-structural-inevitability)Certainty
+  * Chapter 33 — Structural Certainty
   * [Chapter 34 — Structural Authorship](#chapter-34-structural-authorship)
   * [Chapter 35 — Structural Mastery](#chapter-35-structural-mastery)
   * [Chapter 36 — Structural Transmission](#chapter-36-structural-transmission)
