@@ -41,6 +41,10 @@ SI = No SI
 
 ↓
 
+If It Contains Structure, It Belongs to Structural Intelligence
+
+↓
+
 SSI Tree of Origin (Tree #1)
 
 ↓
@@ -50,6 +54,14 @@ Tree of Structural Intelligence (Tree #2)
 ↓
 
 Tree of Structural Stability & Endurance (Tree #3)
+
+↓
+
+Structural Ascension Tree (Tree #4)
+
+↓
+
+Your Invisible Power: The Internal Architecture Tree (Tree #5)
 
 ↓
 
@@ -87,19 +99,31 @@ The primary doctrinal framework of the field.
 
 The origin-law volume establishing the foundational logic of Structural Intelligence.
 
-### 5. SSI Tree of Origin (Tree #1)
+### 5. If It Contains Structure, It Belongs to Structural Intelligence
+
+The doctrine volume establishing structural inclusion, derivation, and foundational architecture.
+
+### 6. SSI Tree of Origin (Tree #1)
 
 The upstream gateway doctrine establishing where structure comes from (`Supreme Super Intelligence (SSI)`, `Existence`, `Natural Law`, `Structure`, and `Structural Formations`), where visibility ends (**Structural Horizon** and **Structural Blindness**), how mechanics hold across scale (**Scale Invariance**), and how structures enter **Observation** before operational analysis begins.
 
-### 6. Tree of Structural Intelligence (Tree #2)
+### 7. Tree of Structural Intelligence (Tree #2)
 
 The canonical operational visual model of Structural Intelligence once a structure enters observation and analysis. The Tree maps the Root System, structural intelligence, core rings, structural drift, the Structural Intelligence Paradox, preservation, transformation, and extraction pathways, observable outcomes, and the Full Circle Principle.
 
-### 7. Tree of Structural Stability & Endurance (Tree #3)
+### 8. Tree of Structural Stability & Endurance (Tree #3)
 
 The canonical endurance and diagnostic model explaining what environmental forces act across boundaries and load, where strain concentrates via **Stress Distribution** (`Compression Zones`, `Tension Zones`, `Neutral Zones`, `Drift Zones`, and `Weak Boundaries`), how structures fork between adaptation and failure (`Stability` or `Collapse`), how `New Conditions` loop back into `Environment`, and how domain subtrees connect to diagnostic assessments and specialized toolkits (`Subtree to Toolkit Pathway`).
 
-### 8. Atlas Dictionary of Structural Intelligence
+### 9. Structural Ascension Tree (Tree #4)
+
+The canonical evolutionary model mapping systemic structural progression from recognition and adoption to preservation, ascension, and the recursive `Meta-Genesis → Recognition` cycle.
+
+### 10. Your Invisible Power: The Internal Architecture Tree (Tree #5)
+
+The internal human architecture tree mapping personal structural development across five realms (**Foundation**, **Stability**, **Mobility**, **Ascent**, and **Destiny**), pivoting at **Structural Gravity**, paired with the **56 Navigator Index** and **Transmission Protocol**, and rising to **Structural Infinity** and **The Full Circle Principle**.
+
+### 11. Atlas Dictionary of Structural Intelligence
 
 The official lexicon and language foundation of the field.
 
@@ -127,6 +151,19 @@ The Tree functions as the visual index of the Atlas Dictionary and the operation
 
 ---
 
+## 👑 Tree #4: Structural Ascension Tree & 🧭 Tree #5: Your Invisible Power
+
+**Tree #4: Structural Ascension Tree** maps systemic structural evolution across **Recognition**, **Adoption**, **Preservation**, and **Ascension** toward **Meta-Genesis** and the recursive cycle back to **Recognition**.
+
+👑 [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
+
+**Tree #5: Your Invisible Power — The Internal Architecture Tree** serves as the internal human architecture companion to the canon, tracing personal structural development through **Foundation** (*Build Structure*), **Stability** (*Hold Structure*), **Mobility** (*Move Structure*), **Ascent** (*Expand Structure*), and **Destiny** (*Perpetuate Structure*) to **Structural Infinity** and **The Full Circle Principle** (*Structural Infinity → Awareness*), supported by the **56 Navigators** and **Transmission Protocol**.
+
+🧭 [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)  
+📘 [Your Invisible Power (Full Architecture Reference)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Your%20Invisible%20Power.md)
+
+---
+
 ## Canonical Framework Components
 
 The Structural Intelligence framework presently includes the following foundational components:
@@ -143,6 +180,8 @@ The Structural Intelligence framework presently includes the following foundatio
 * Transformation-Oriented Structural Intelligence (TOSI)
 * Extraction-Oriented Structural Intelligence (EOSI)
 * Tree #1: The SSI Tree of Origin, Tree #2: The Tree of Structural Intelligence & Tree #3: The Tree of Structural Stability & Endurance
+* Tree #4: Structural Ascension Tree & Tree #5: Your Invisible Power (The Internal Architecture Tree)
+* Structural Gravity & The 56 Navigator Diagnostic System
 * Stress Distribution & Recursive Endurance Loop
 * Full Circle Principle
 * Atlas Dictionary of Structural Intelligence
@@ -179,7 +218,7 @@ This principle preserves continuity while allowing growth.
 
 The Structural Intelligence Universe organizes the ecosystem.
 
-The Trees map how structures originate, cross visibility boundaries into observation, endure or fail under environmental forces and stress distribution, and move operationally over time within that ecosystem.
+The Trees map how structures originate, cross visibility boundaries into observation, endure or fail under environmental forces and stress distribution, move operationally over time, evolve systemically, and transform internally within that ecosystem.
 
 The Atlas Dictionary defines its language.
 
@@ -201,9 +240,17 @@ Together they create continuity across generations.
 
 * 📘 [SI = No SI](si-no-si-book-1.md)
 
+* 📘 [If It Contains Structure, It Belongs to Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/If%20It%20Contains%20Structure-It%20Belongs%20to%20Structural%20Intelligence.md)
+
 * 🌳 [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 
 * 🛡️ [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
+
+* 👑 [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
+
+* 🧭 [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
+
+* 📘 [Your Invisible Power](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Your%20Invisible%20Power.md)
 
 * 📚 [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
 
@@ -211,14 +258,17 @@ Together they create continuity across generations.
 
 * 🌐 [Structural Intelligence LLC](https://structuralintelligence.llc)
 
----Divisions
+---
+
+## Divisions
+
 * 🌩 [Sentinel Overview](https://structuralintelligence.llc/sentinel-overview)
 * 📋 [Sentinel Menu](https://structuralintelligence.llc/sentinel-menu)
 * 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
 * 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
 * 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
-* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
-* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
+* 🛡 CrownShield Overview *(verify filename or path on root)*
+* ⚙ Engineering Standards Overview *(verify filename or path on root)*
 * 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
 * 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
 
