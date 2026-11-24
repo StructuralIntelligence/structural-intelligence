@@ -267,10 +267,11 @@ Together they create continuity across generations.
 * 📚 [Atlas Overview](https://structuralintelligence.llc/atlas-overview)
 * 📖 [Atlas Library](https://structuralintelligence.llc/atlas-library)
 * 🚀 [Rare Air Overview](https://structuralintelligence.llc/rareair-overview)
-* 🛡 CrownShield Overview *(verify filename or path on root)*
-* ⚙ Engineering Standards Overview *(verify filename or path on root)*
+* 🛡 [CrownShield Overview](https://structuralintelligence.llc/crownshield-overview)
+* ⚙ [Engineering Standards Overview](https://structuralintelligence.llc/engineering-standards-overview)
 * 🎵 [Cadence Overview](https://structuralintelligence.llc/cadence-overview)
 * 🌌 [Zenith Overview](https://structuralintelligence.llc/zenith-overview)
+
 
 ## Future Canon Expansion
 
