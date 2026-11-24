@@ -1,3 +1,4 @@
+<img width="1248" height="832" alt="OIG4" src="https://github.com/user-attachments/assets/3ae874dd-46bb-466d-a3f6-acf692ff1b58" />
 # Sentinel Safety Systems & Maritime 10-Book Series
 **Division:** [Sentinel Safety Systems](https://structuralintelligence.llc/sentinel-overview) — Structural Intelligence LLC  
 **Series:** Sentinel Safety Manuals Library — Captain Cannon Signature Series  
