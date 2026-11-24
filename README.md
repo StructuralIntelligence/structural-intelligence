@@ -24,6 +24,7 @@ Welcome to the [Structural Intelligence Documentation Portal](https://github.com
 * [Ten Commandments of Structural Intelligence](ten-commandments.md)
 * [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 * [SI = No SI — Book 1](si-no-si-book-1.md)
+* [Book 1: If It Contains Structure, It Belongs to Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/If%20It%20Contains%20Structure-It%20Belongs%20to%20Structural%20Intelligence.md)
 
 ---
 
@@ -33,6 +34,7 @@ Welcome to the [Structural Intelligence Documentation Portal](https://github.com
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 * [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
+* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
 * [Tree Lab #1: Vocational & Workforce Intelligence — Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Tree Lab #2: Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%232%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Structural Intelligence Universe](structural-intelligence-universe.md)
@@ -55,10 +57,12 @@ Structural Intelligence
 * [Ten Commandments of Structural Intelligence](ten-commandments.md)
 * [Structural Intelligence Doctrine](structural-intelligence-doctrine.md)
 * [SI = No SI — Book 1](si-no-si-book-1.md)
+* [Book 1: If It Contains Structure, It Belongs to Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/If%20It%20Contains%20Structure-It%20Belongs%20to%20Structural%20Intelligence.md)
 * [SSI Tree of Origin (Tree #1)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20of%20Origin%20Structure%20Intelligence.md)
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
 * [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
+* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
 * [Tree Lab #1: Vocational & Workforce Intelligence — Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Tree Lab #2: Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%232%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md)
@@ -95,6 +99,14 @@ Structural Intelligence
 
 ---
 
+## 🧭 Tree #5: Your Invisible Power — The Internal Architecture Tree
+
+**Tree #5: Your Invisible Power** serves as the internal human architecture companion to the Structural Intelligence framework—mapping the complete pathway of personal structural development from internal alignment to **Structural Infinity** across five realms: **Foundation** (`Build Structure`), **Stability** (`Hold Structure`), **Mobility** (`Move Structure`), **Ascent** (`Expand Structure`), and **Destiny** (`Perpetuate Structure`), pivoting at **Structural Gravity** (`The Shift From Chasing to Attraction`), supported by the **56 Navigator Index**, and crowned by the **Full Circle Principle** (`Structural Infinity → Awareness`).
+
+* [Explore Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
+
+---
+
 ## 🧪 Tree Lab #1: Vocational & Workforce Intelligence (Labor Market Shock)
 
 **Tree Lab #1: Vocational & Workforce Intelligence** tests the portability of the Structural Intelligence tree methodology across human and organizational systems—mapping how `Individual → Attributes → Skills → Knowledge → Capabilities` interface with `Labor Force Structures & Opportunities`, `Career Pathways`, `Employment`, `Performance`, `Advancement`, `Value Creation`, and a recursive `New Opportunities` loop under `Labor Market Shock` and `Shock Zones` (`Exposure`, `Runway`, `Transferability`, `Re-Entry Friction`).
@@ -123,7 +135,7 @@ Every mystery humanity faces is really just structure we haven't mapped yet:
 
 Structural Intelligence seeks to make those structures visible across scale and horizon. Through structural analysis, hidden patterns, relationships, dependencies, and behaviors become understandable, allowing systems to be strengthened, adapted, stabilized, preserved, and evolved.
 
-If structure governs behavior, then understanding structure reveals the pathways through which systems remain stable, experience drift, adapt to pressure, and evolve through time.
+If structure governs behavior, then understanding structure reveals the pathways through which systems remain stable, experience structural drift, adapt to pressure, and evolve through time.
 
 ## About Structural Intelligence
 
@@ -162,4 +174,5 @@ The framework studies preservation-oriented, transformation-oriented, and extrac
 ### Publications
 
 [Scott J. Angell Sr. Author Storefront on Amazon](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
+
 © 2026 Structural Intelligence LLC — Zenith Division
