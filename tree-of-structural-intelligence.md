@@ -1,4 +1,6 @@
-<img width="1024" height="1536" alt="Designer tree(9)" src="https://github.com/user-attachments/assets/65fb3a5e-37aa-42de-a961-d7f1b556ecc4" />
+height="1264" alt="Structur intelligence tree v2 0" src="https://github.com/user-attachments/assets/670b41f4-54b9-47f4-bad4-45ff4de30ad1" />
+
+
 
 # The Tree of Structural Intelligence
 
