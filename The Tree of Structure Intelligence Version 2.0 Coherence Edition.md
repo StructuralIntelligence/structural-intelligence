@@ -261,23 +261,34 @@ Your Markdown file is ready
 
 tree-of-structural-intelligence
  MD 
-Here is the complete, GitHub-ready tree-of-structural-intelligence.md incorporating the full bottom-up causal chain (Core Rings → Structural Incoherence → Trunk (SI) → Structural Coherence → Coherence Calibration (Alignment + Flexibility ──► Resilience) → The Fork / Structural Intelligence Paradox) along with updated reading-guide sections and the Full Circle Principle.
+Here is the complete, GitHub-ready tree-of-structural-intelligence.md incorporating the full bottom-up causal chain (Core Rings → Structural
+Incoherence → Trunk (SI) → Structural Coherence → Coherence Calibration (Alignment + Flexibility ──► Resilience) →
+The Fork / Structural Intelligence Paradox) along with updated reading-guide sections and the Full Circle Principle.
 
 Key Updates Included in the File
-Bottom-Up Evidence-to-Action Spine: Placed Core Rings below Trunk (SI), with Structural Incoherence directly between them so drift accumulation feeds straight into analysis.
+Bottom-Up Evidence-to-Action Spine: Placed Core Rings below Trunk (SI), with Structural Incoherence directly between
+them so drift accumulation feeds straight into analysis.
 
-Coherence & Calibration Layer: Added Structural Coherence (Structural Alignment & Integration) and Coherence Calibration (Alignment + Flexibility ──► Resilience), elevating Resilience to a structural property upstream of pathway selection.
+Coherence & Calibration Layer: Added Structural Coherence (Structural Alignment & Integration) and Coherence Calibration
+(Alignment + Flexibility ──► Resilience), elevating Resilience to a structural property upstream of pathway selection.
 
-Refined Paradox & Cycle: Updated The Fork (Structural Intelligence Paradox) and the Full Circle Principle flow to reflect how calibrated coherence increases capability across Preservation, Transformation, and Exploitation without setting intent.
+Refined Paradox & Cycle: Updated The Fork (Structural Intelligence Paradox) and the Full Circle Principle flow to reflect
+how calibrated coherence increases capability across Preservation, Transformation, and Exploitation without setting intent.
 
-Clean GitHub Markdown: Fixed minor typos (e.g., Supreme Super Intelligence) and structured headings, lists, and code blocks for clean rendering in your repository.
+Clean GitHub Markdown: Fixed minor typos (e.g., Supreme Super Intelligence) and structured headings, lists, and code blocks
+ for clean rendering in your repository.
 
 Markdown
 # The Tree of Structural Intelligence
 
-The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence** is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings, resolve incoherence into calibrated coherence, diverge at the Structural Intelligence Paradox into three distinct pathways, and produce observable outcomes that determine survival, renewal, and evolution.
+The **Atlas Dictionary** defines the canonical language of Structural Intelligence; the **Tree of Structural Intelligence**
+ is its visual map—showing how foundational principles grow into structural analysis, record drift across core rings,
+resolve incoherence into calibrated coherence, diverge at the Structural Intelligence Paradox into three distinct pathways,
+and produce observable outcomes that determine survival, renewal, and evolution.
 
-> **Core Doctrine Principle:** Structural Intelligence generates Structural Coherence, and Coherence Calibration creates Resilience—increasing the capability to preserve, transform, or exploit a structure. Knowledge and coherence improve capability, but do not determine intent; the objective sets the pathway.
+> **Core Doctrine Principle:** Structural Intelligence generates Structural Coherence, and Coherence Calibration creates
+Resilience—increasing the capability to preserve, transform, or exploit a structure. Knowledge and coherence improve capability,
+but do not determine intent; the objective sets the pathway.
 
 ```text
                                      ┌─────────────────────┐
