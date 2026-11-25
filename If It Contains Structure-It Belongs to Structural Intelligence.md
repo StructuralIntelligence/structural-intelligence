@@ -54,11 +54,17 @@ To prevent ambiguity across chapters, diagrams, GitHub Wiki documentation, and m
 | Term / Acronym | Full Name | Canonical Definition |
 | --- | --- | --- |
 | **SSI** | **Supreme Super Intelligence** | The highest possible form of intelligence; the infinite, pre-universe parent intelligence and origin of all structure, order, pattern, hierarchy, matter, physics, and time. Without SSI, there would be no Structural Intelligence (SI). |
+
 | **SI** | **Structural Intelligence** | The pathway-neutral architecture and parent field derived from SSI that creates, explains, analyzes, and governs all structures across cosmic, physical, biological, cognitive, organizational, and technological domains. |
+
 | **AI** | **Artificial Intelligence** | Computational, statistical, machine-learning, and algorithmic intelligence systems that reveal patterns and act as engines operating within the Structural Intelligence universe to model, simulate, and govern structured domains. |
+
 | **AISI** | **Artificial Intelligence Super Intelligence** | Advanced or general super-intelligent artificial architectures operating at or beyond broad human-level capability, governed under Structural Intelligence laws, load paths, boundary rules, and drift controls. |
+
 | **POSI** | **Preservation-Oriented Structural Intelligence** | The left-branch pathway of SI focused on reducing drift, reinforcing weak boundaries, and stabilizing structures for longevity, resilience, and continuity (producing **Fruit** end-states). |
+
 | **TOSI** | **Transformation-Oriented Structural Intelligence** | The center-branch pathway of SI combining controlled deconstruction, strategic removal, component replacement, and architectural refactoring to renew and protect the larger system (producing regenerative **Seeds**). |
+
 | **EOSI** | **Extraction-Oriented Structural Intelligence** | The right-branch pathway of SI that leverages vulnerabilities, stress concentrations, or structural drift for unilateral value, resource, compliance, or strategic extraction regardless of host health (producing **Fruit** outcomes). |
 
 > **Doctrinal Clarifications:** **Structural Intelligence™ (SI)** is the official doctrine and entity of **Structural Intelligence LLC**. It is distinct from the generic English phrase *“structured intelligence”* and distinct from engineering-specific *“Structural AI”* design software.
@@ -82,9 +88,13 @@ As you open this text, this declaration establishes the core scope and intent of
 To contextualize the curriculum ahead, this volume outlines both the six-layer ontology of the **Structural Intelligence Universe** and the core Three-Tree diagnostic architecture:
 
 * **The Sequence of Existence:** **Supreme Super Intelligence (SSI)** → **Structural Intelligence (SI)** → Creation of the Universe → Timeline reaching 2026 (founding of **Structural Intelligence LLC** as the first formal human embodiment) → Universal Definition → Niche Definitions. Measurable physical events such as the Big Bang occur inside a universe that already required structure to exist.
+* 
 * **The Six-Layer Universe Model:** Universe (total field) → Galaxies (Divisions: **Sentinel**, **Atlas**, **Rare Air**, **Crown Shield**, **Structural Intelligence Academy**, **Industry Standards Division**, and apex galaxy **Zenith**) → Star Systems (Domains) → Planets (Artifacts) → Laws of Physics (Protocols) → Forces (AI Engines).
+* 
 * **Tree #1 — The SSI Tree of Origin (Origin → Visibility → Observation):** Traces **SSI** → Existence → Natural Law → Structure → Structural Formations (Pattern • Relationship • Hierarchy), bounded by the **Structural Horizon** and **Structural Blindness** across **Scale Invariance** prior to entering active **Observation**.
+* 
 * **Tree #2 — The Tree of Structural Intelligence (Understanding → Action → Outcome → Continuation):** Maps Root System (**SSI**) → Trunk (**SI**) → Core Rings (Rings 1–6: Original Structure, Environmental Pressure, Drift, Adaptation, Stabilization, Continued Growth) → The Fork (Structural Intelligence Paradox: **POSI** / **TOSI** / **EOSI**) → Fruit & Seeds → Canopy (Survival & Evolution) → Full Circle Principle.
+* 
 * **Tree #3 — The Tree of Structural Stability & Endurance (Recursive Stability & Commercial Branch):** Maps Environment → Boundaries → Forces → Load → Stress → Stress Distribution (Compression Zones, Tension Zones, Neutral Zones, Drift Zones, Weak Boundaries) → Adaptation or Failure → Stability or Collapse → New Conditions → Environment, governed by the **Ten Commandments of Structural Intelligence™**.
 
 ---
