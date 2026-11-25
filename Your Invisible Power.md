@@ -1,6 +1,6 @@
 <img width="256" height="384" alt="Storm‑lit" src="https://github.com/user-attachments/assets/dc456155-2750-4c9b-8188-b9368a8d560f" />
 
-# YOUR INVISIBLE POWER
+# YOUR INVISIBLE POWER (SI)
 
 ### The Architecture of Structural Intelligence
 
@@ -117,7 +117,7 @@
 
 This book is a structural text. It is not motivational, inspirational, or therapeutic. It is an architecture—one designed to reveal the invisible forces that determine how a person rises, stabilizes, moves, and ultimately becomes unbreakable.
 
-The chapters that follow are arranged in a precise ascent. Each one builds upon the last. Each one strengthens the internal architecture required for the next. The sequence is intentional. The structure is deliberate. The rise is earned.
+The chapters that follow are arranged in a precise ascent. Each one builds upon the last. Each one strengthens the internal architecture required for the next. The sequence is intentional. The intelligence and coherence of structure (SI) is deliberate. The rise is earned.
 
 Your invisible power is not a technique. It is not a mindset. It is not a strategy. It is the architecture you carry within you—the structure that determines how you hold yourself, how you move, and how you shape the world around you.
 
