@@ -32,9 +32,10 @@ Welcome to the [Structural Intelligence Documentation Portal](https://github.com
 
 * [SSI Tree of Origin (Tree #1)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20of%20Origin%20Structure%20Intelligence.md)
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+* [Tree of Structural Intelligence Version 2.0 — Coherence Edition](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structure%20Intelligence%20Version%202.0%20Coherence%20Edition.md)
 * [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
-* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
+* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible-Power.md)
 * [Sentinel Safety Systems — Maritime Series](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/sentinel-safety-systems-Maritime.md)
 * [Tree Lab #1: Vocational & Workforce Intelligence — Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Tree Lab #2: Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%232%20%E2%80%93%20Labor%20Market%20Shock.md)
@@ -61,9 +62,10 @@ Structural Intelligence
 * [Book 1: If It Contains Structure, It Belongs to Structural Intelligence](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/If%20It%20Contains%20Structure-It%20Belongs%20to%20Structural%20Intelligence.md)
 * [SSI Tree of Origin (Tree #1)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20of%20Origin%20Structure%20Intelligence.md)
 * [Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+* [Tree of Structural Intelligence Version 2.0 — Coherence Edition](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structure%20Intelligence%20Version%202.0%20Coherence%20Edition.md)
 * [Tree of Structural Stability & Endurance (Tree #3)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structural%20Stability%20&%20Endurance.md)
 * [Structural Ascension Tree (Tree #4)](Structural-Ascension-Tree.md)
-* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
+* [Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible-Power.md)
 * [Sentinel Safety Systems — Maritime Series](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/sentinel-safety-systems-Maritime.md)
 * [Tree Lab #1: Vocational & Workforce Intelligence — Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md)
 * [Tree Lab #2: Labor Market Shock](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20Lab%20%232%20%E2%80%93%20Labor%20Market%20Shock.md)
@@ -82,6 +84,10 @@ Structural Intelligence
 **Tree #2: The Tree of Structural Intelligence** serves as the canonical operational map once a structure enters observation and analysis. While the [Atlas Dictionary of Structural Intelligence](atlas-dictionary.md) defines the language of Structural Intelligence, the Tree illustrates how foundational principles develop into structural analysis, record drift through time, diverge across preservation, transformation, or exploitation pathways, and ultimately produce the outcomes that determine survival and evolution.
 
 * [Explore the Tree of Structural Intelligence (Tree #2)](tree-of-structural-intelligence.md)
+
+**Version 2.0 — Coherence Edition** expands the operational spine to show how accumulated drift produces **Structural Incoherence**, how Structural Intelligence resolves that into **Structural Coherence** (understanding), and how **Coherence Calibration** balances alignment and flexibility to generate **Resilience** before pathway selection at **The Fork**.
+
+* [Explore Tree of Structural Intelligence Version 2.0 — Coherence Edition](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/The%20Tree%20of%20Structure%20Intelligence%20Version%202.0%20Coherence%20Edition.md)
 
 ---
 
@@ -105,7 +111,7 @@ Structural Intelligence
 
 **Tree #5: Your Invisible Power** serves as the internal human architecture companion to the Structural Intelligence framework—mapping the complete pathway of personal structural development from internal alignment to **Structural Infinity** across five realms: **Foundation** (`Build Structure`), **Stability** (`Hold Structure`), **Mobility** (`Move Structure`), **Ascent** (`Expand Structure`), and **Destiny** (`Perpetuate Structure`), pivoting at **Structural Gravity** (`The Shift From Chasing to Attraction`), supported by the **56 Navigator Index**, and crowned by the **Full Circle Principle** (`Structural Infinity → Awareness`).
 
-* [Explore Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible%20Power.md)
+* [Explore Your Invisible Power: The Internal Architecture Tree (Tree #5)](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Tree%20%235%3A%20Your%20Invisible-Power.md)
 
 ---
 
@@ -185,4 +191,4 @@ The framework studies preservation-oriented, transformation-oriented, and extrac
 
 [Scott J. Angell Sr. Author Storefront on Amazon](https://www.amazon.com/stores/Scott-J-Angell-Sr/author/B0GTC2QXC8)
 
-© 2026 Structural Intelligence LLC — Zenith Division
+© 2026 Structural Intelligence LLC — Zenith Division update
