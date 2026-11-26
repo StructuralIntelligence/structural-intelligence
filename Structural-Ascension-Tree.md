@@ -2,13 +2,13 @@
 
 # How to Read the Structural Ascension Tree
 
-The **Structural Ascension Tree** is built on the foundation of [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Your%20Invisible%20Power.md) and represents the complete developmental pathway of **Structural Intelligence (SI)**—illustrating the progression from recognition to regeneration across increasing levels of structural altitude.
+The **Structural Ascension Tree** is built on the foundation of [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/STRUCTURAL%20INTELLIGENCE%20%3A%20Your%20Invisible%20Power.md) and represents the complete developmental pathway of **Structural Intelligence (SI)**—illustrating the progression from recognition to regeneration across increasing levels of structural altitude.
 
 ---
 
 ## 1. Root System (Foundation)
 
-Begin at the roots (explored in [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Your%20Invisible%20Power.md)):
+Begin at the roots (explored in [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/STRUCTURAL%20INTELLIGENCE%20%3A%20Your%20Invisible%20Power.md)):
 
 - **SSI**
 - **Origin Law**
@@ -27,7 +27,7 @@ The trunk represents the unified journey from recognition through mastery and ul
 
 ### Recognition Branch
 
-The journey from Structural Blindness to Leadership—the initial awakening and diagnostic shift grounded in [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/Your%20Invisible%20Power.md).
+The journey from Structural Blindness to Leadership—the initial awakening and diagnostic shift grounded in [**Your Invisible Power**](https://github.com/StructuralIntelligence/structural-intelligence/blob/main/STRUCTURAL%20INTELLIGENCE%20%3A%20Your%20Invisible%20Power.md).
 
 **Structural Blindness** → **Recognition** → **Diagnostics** → **Intervention** → **Scale** → **Leadership**
 
@@ -61,7 +61,6 @@ The highest-altitude stages of unification, mastery, regeneration, and creator-l
 
 The outer circular path represents the **Recursive Structural Cycle**:
 
-```text
-Meta-Genesis
-      ↓
+Meta-Genesis  
+↓  
 Recognition
