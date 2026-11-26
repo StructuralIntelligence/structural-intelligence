@@ -1,6 +1,6 @@
 <img width="256" height="384" alt="Storm‑lit" src="https://github.com/user-attachments/assets/dc456155-2750-4c9b-8188-b9368a8d560f" />
 
-#Structural Intelligence: YOUR INVISIBLE POWER
+# STRUCTURAL INTELLIGENCE: YOUR INVISIBLE POWER
 
 ### The Architecture of Structural Intelligence
 
