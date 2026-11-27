@@ -1,27 +1,28 @@
-<img width="747" height="2268" alt="image" src="https://github.com/user-attachments/assets/3285bd4e-1659-45e5-a602-16adcfb8ffdd" />
-<img width="569" height="2268" alt="image" src="https://github.com/user-attachments/assets/f6d37f00-5113-4e85-a6db-79e0aba54439" />
 
 Structural Intelligence Forest
-Official collection of Structural Intelligence Trees.
+
+Welcome to the Structural Intelligence Forest, the official collection of Structural Intelligence Trees developed by Structural Intelligence LLC.
 
 Core Trees
-MED-1 Medical Readiness Core Tree
-Structural Ascension Tree
-The Tree of Structural Stability & Endurance
-The Tree of Structure Intelligence Version 2.0 Coherence Edition
-Tree #5: Your Invisible Power
-Tree Lab #1 – Labor Market Shock
-Tree of Origin Structure Intelligence
-Tree of Structural Intelligence
-Sentinel Safety Trees
-Maritime Safety Tree
-MED-1 Medical Readiness Core Tree
-Supporting Trees
-Ten Commandments Tree
-Images
-Maritime Tree Image
-Labor Market Shock Tree Image
+./%23%20MED-1%20Medical%20Readiness%20Core%20Tree.md
+./tree-of-structural-intelligence.md
+./Tree%20of%20Origin%20Structure%20Intelligence.md
+./The%20Tree%20of%20Structure%20Intelligence%20Version%202.0%20Coherence%20Edition.md
+./Structural-Ascension-Tree.md
+./The%20Tree%20of%20Structural%20Stability%20%26%20Endurance.md
+Research Trees
+./Tree%20Lab%20%231%20%E2%80%93%20Labor%20Market%20Shock.md
+./Tree%20%235%3A%20Your%20Invisible%20Power.md
+./ten-Commandments-tree.md
+Sentinel Safety Systems Trees
+./sentinel-safety-systems-Maritime-tree.md
+./%23%20MED-1%20Medical%20Readiness%20Core%20Tree.md
+Visual Assets
+./Maritime-tree.jpg
+./labor%20market%20shock-tree.webp
+
 Structural Intelligence Forest™
 
-A growing collection of interconnected Structural Intelligence Tree frameworks developed by Structural Intelligence LLC.
-# MED-1 Medical Readiness Core Tree.md
+A growing collection of interconnected tree frameworks exploring structure, resilience, safety, human behavior, risk, coherence, and systemic relationships.
+
+© 2026 Structural Intelligence LLC
