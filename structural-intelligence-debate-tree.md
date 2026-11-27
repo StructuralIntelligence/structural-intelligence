@@ -1,3 +1,6 @@
+
+<img width="1248" height="832" alt="winner debate tree (1)" src="https://github.com/user-attachments/assets/e3192a21-5cac-40bb-8b0d-bd4313ed2c89" />
+
 # How to Read the Structural Intelligence Debate Tree
 
 > **Core Definition (Think Tank Winner):** Structural Intelligence is the capacity across any level of intelligence to create, design, engineer, and reverse engineer structure across any proximity and at infinite scope beyond today's vantage points.
