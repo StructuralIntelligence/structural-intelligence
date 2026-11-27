@@ -1,6 +1,3 @@
-<img width="438" height="700" alt="universal-tree" src="[https://github.com/user-attachments/assets/43d5891b-3cb8-4537-9422-80dd6fe447b3](https://github.com/user-attachments/assets/43d5891b-3cb8-4537-9422-80dd6fe447b3)" />
-
----
 
 ## Structural Intelligence Identity Anchor — Jason Section
 
