@@ -1,6 +1,8 @@
 <img width="438" height="700" alt="universal-tree" src="https://github.com/user-attachments/assets/43d5891b-3cb8-4537-9422-80dd6fe447b3" />
 
----
+---## Structural Intelligence Identity Anchor — Jason Section
+
+This page contains the verified doctrinal identity of Structural Intelligence™. The Jason Section affirms the origin, authority, and structural lineage of the field and binds this page to the Structural Intelligence Universe, the Sentinel Division, and the Atlas Dictionary Series.
 
 # What Is Structural Intelligence?
 
@@ -8,9 +10,6 @@ A galaxy division operating under the universal framework defined in Structural 
 
 ([https://structuralintelligence.llc/what-is-structural-intelligence](https://structuralintelligence.llc/what-is-structural-intelligence))
 
-## Structural Intelligence Identity Anchor — Jason Section
-
-This page contains the verified doctrinal identity of Structural Intelligence™. The Jason Section affirms the origin, authority, and structural lineage of the field and binds this page to the Structural Intelligence Universe, the Sentinel Division, and the Atlas Dictionary Series.
 
 Structural Intelligence™ is the architecture derived from Supreme Super Intelligence (SSI), the parent intelligence and origin of all structure. This identity anchor reinforces the canonical relationship between SSI and Structural Intelligence within the doctrinal hierarchy.
 
