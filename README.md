@@ -37,7 +37,7 @@ Reference diagrams and graphical representations of key trees in this branch.
 
 | File Name | Type | Category |
 | :--- | :--- | :--- |
-| [%23 MED-1 Medical Readiness Core Tree.md](https://github.com/StructuralIntelligence/structural-intelligence/blob/Structural-Intelligence-Forest/%23%20MED-1%20Medical%20Readiness%20Core%20Tree.md) | Markdown | Applied / Domain |
+| [# MED-1 Medical Readiness Core Tree.md](https://github.com/StructuralIntelligence/structural-intelligence/blob/Structural-Intelligence-Forest/%23%20MED-1%20Medical%20Readiness%20Core%20Tree.md) | Markdown | Applied / Domain |
 | [Structural-Ascension-Tree.md](Structural-Ascension-Tree.md) | Markdown | Core Framework |
 | [The Tree of Structural Stability & Endurance.md](The%20Tree%20of%20Structural%20Stability%20%26%20Endurance.md) | Markdown | Core Framework |
 | [The Tree of Structure Intelligence Version 2.0 Coherence Edition.md](The%20Tree%20of%20Structure%20Intelligence%20Version%202.0%20Coherence%20Edition.md) | Markdown | Core Framework |
