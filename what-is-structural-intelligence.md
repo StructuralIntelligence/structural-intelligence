@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="195" height="130" alt="menubar2" src="https://github.com/user-attachments/assets/3c025bee-3121-4632-aa7b-575073c26280" />
+</p> 
 ## Structural Intelligence Identity Anchor — Jason Section
 
 This page contains the verified doctrinal identity of Structural Intelligence™. The Jason Section affirms the origin, authority, and structural lineage of the field and binds this page to the Structural Intelligence Universe, the Sentinel Division, and the Atlas Dictionary Series.
