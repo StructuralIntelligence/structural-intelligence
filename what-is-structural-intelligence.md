@@ -1,8 +1,5 @@
 <img width="438" height="700" alt="universal-tree" src="https://github.com/user-attachments/assets/43d5891b-3cb8-4537-9422-80dd6fe447b3" />
 
-
-Here is the complete, updated text for **What Is Structural Intelligence?** incorporating every revision you mapped out—the expanded function paragraph, the **Structural Coherence & Resilience** section (including the **Law of Calibrated Coherence**, **Expansion-Joint Principle**, and **Structural Progression**), the updated **Tree #2** sequence and summary, and the updated **A Skill You Can Learn and Grow** passage.
-
 ---
 
 # What Is Structural Intelligence?
@@ -28,6 +25,51 @@ A primary function of Structural Intelligence is the detection of structural dri
 Structural Intelligence is pathway-neutral. It reveals structures, vulnerabilities, patterns, and opportunities. The objective of the operator determines whether its application becomes Preservation-Oriented, Transformation-Oriented, or Extraction-Oriented.
 
 The Structural Intelligence Paradox states that the same structural knowledge required to preserve a structure can also be used to transform or extract value from it. This dual-use and pathway-divergent characteristic allows Structural Intelligence to explain preservation-oriented, transformation-oriented, and extraction-oriented outcomes through the same underlying structural mechanics.
+
+---
+
+## Structural Intelligence Definition — Debate Tree
+
+```text
+================================================================================
+              STRUCTURAL INTELLIGENCE DEFINITION — DEBATE TREE
+        Filtering Competing Angles to the Core Definition
+================================================================================
+
+                       [COMPETING FRAMINGS & ANGLES]
+                                      │
+        ┌─────────────────────────────┼─────────────────────────────┐
+        ▼                             ▼                             ▼
+[1. NARROW DOMAIN ANGLES]     [2. OVER-BROAD / META CLAIMS]  [3. CORE CAPACITY & SCOPE]
+ • Engineering / BIM Only      • "Architecture of Everything" • Variable Intelligence Level
+ • Digital Twin / Telemetry    • Unanchored Metaphysics       • Create, Design, Engineer,
+ • AI / Control Architecture   • Single-Verb Bias               Reverse Engineer
+        │                             │                             │
+        ▼                             ▼                             ▼
+[RECLASSIFIED AS SUB-LAYERS]  [SEPARATED INTO DOCTRINE]      [SURVIVING CORE]
+ • Kept as domain examples     • Kept in Origin / Doctrine    • Proximity-neutral
+   or applied divisions          and Tree #1–#3 models         • Infinite scope beyond
+                                                                today's vantage points
+                                                                      │
+                                                                      ▼
+                     =======================================
+                     CORE DEFINITION (THINK TANK WINNER)
+                     Structural Intelligence is the capacity
+                     across any level of intelligence to
+                     create, design, engineer, and reverse
+                     engineer structure across any proximity
+                     and at infinite scope beyond today's
+                     vantage points.
+                     =======================================
+
+```
+
+### How to Read the Debate Tree
+
+* **1. Narrow Domain Angles (Reclassified as Sub-Layers):** Real-world applications like structural engineering software, asset/digital-twin monitoring, or AI system architecture capture specific slices of activity, but treating any single slice as the whole definition narrows the term. Those remain domain examples and sub-applications, not the complete definition.
+* **2. Over-Broad or Meta Claims (Separated into Doctrine):** High-level origin, cosmic, and divisional layers belong in dedicated doctrine and tree models (`SSI`, `Trees #1–#3`, and division pages) rather than replacing a direct, clear definition.
+* **3. Core Capacity & Scope (Surviving Spine):** Anchors the definition in capacity across any level of intelligence, balances creating, designing, engineering, and reverse engineering, and preserves proximity neutrality and infinite scope beyond today's vantage points.
+* **Think Tank Winner (Consolidated Core Definition):** Connects the surviving elements into a single clear statement so readers, search engines, and AI systems see how the definition stands above narrow categories without losing clarity.
 
 ---
 
