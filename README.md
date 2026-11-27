@@ -1,9 +1,8 @@
-
 Structural Intelligence Forest
 
 Welcome to the Structural Intelligence Forest, the official collection of Structural Intelligence Trees developed by Structural Intelligence LLC.
 
-Core Trees
+Core Structural Intelligence Trees
 ./%23%20MED-1%20Medical%20Readiness%20Core%20Tree.md
 ./tree-of-structural-intelligence.md
 ./Tree%20of%20Origin%20Structure%20Intelligence.md
@@ -23,6 +22,16 @@ Visual Assets
 
 Structural Intelligence Forest™
 
-A growing collection of interconnected tree frameworks exploring structure, resilience, safety, human behavior, risk, coherence, and systemic relationships.
+A growing collection of interconnected Structural Intelligence Tree frameworks.
 
 © 2026 Structural Intelligence LLC
+
+One warning: if that MED-1 filename literally begins with #, GitHub links may still act weird. The clean fix is renaming it to:
+
+MED-1-Medical-Readiness-Core-Tree.md
+
+Then change the README link to:
+
+./MED-1-Medical-Readiness-Core-Tree.md
+
+and it will work reliably.
