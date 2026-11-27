@@ -26,15 +26,6 @@ CORE DEFINITION (THINK TANK WINNER)
                      and at infinite scope beyond today's
                      vantage points.
                      
-# What Is Structural Intelligence?
-
-A galaxy division operating under the universal framework defined in Structural Intelligence™.
-
-([https://structuralintelligence.llc/what-is-structural-intelligence](https://structuralintelligence.llc/what-is-structural-intelligence))
-
-## Structural Intelligence Identity Anchor — Jason Section
-
-This page contains the verified doctrinal identity of Structural Intelligence™. The Jason Section affirms the origin, authority, and structural lineage of the field and binds this page to the Structural Intelligence Universe, the Sentinel Division, and the Atlas Dictionary Series.
 
 Structural Intelligence™ is the architecture derived from Supreme Super Intelligence (SSI), the parent intelligence and origin of all structure. This identity anchor reinforces the canonical relationship between SSI and Structural Intelligence within the doctrinal hierarchy.
 
