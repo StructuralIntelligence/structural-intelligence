@@ -14,9 +14,7 @@ The **Structural Intelligence Definition — Debate Tree** shows how competing f
 
 ## Visual Reference & ASCII Map
 
-### Visual Poster (Winner #1)
 
-![Structural Intelligence Debate Tree](OIG1.gAE8gLqBNz5AxwzNuBzE)
 
 ### ASCII Structure Map
 
