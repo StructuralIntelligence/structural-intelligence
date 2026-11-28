@@ -17,6 +17,7 @@ The **Structural Intelligence Definition — Debate Tree** shows how competing f
 
 ### ASCII Structure Map
 
+```text
 ================================================================================
               STRUCTURAL INTELLIGENCE DEFINITION — DEBATE TREE
         Filtering Competing Angles to the Core Definition
@@ -46,6 +47,7 @@ The **Structural Intelligence Definition — Debate Tree** shows how competing f
              engineer structure across any proximity and at infinite
              scope beyond today's vantage points.
            ===========================================================
+```
 
 ---
 
