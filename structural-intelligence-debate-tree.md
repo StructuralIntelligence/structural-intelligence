@@ -1,5 +1,7 @@
-[structural-intelligence-debate-tree.md](https://github.com/user-attachments/files/35527433/structural-intelligence-debate-tree.md)
-<img width="1248" height="832" alt="winner debate tree (1)" src="https://github.com/user-attachments/assets/2449a6e6-310b-4a22-b508-205a3f3a02b6" />
+<img width="1264" height="848" alt="debate tree 1127b" src="https://github.com/user-attachments/assets/30092907-d79d-4953-9c27-a0d7dbb9b36e" />
+
+
+
 # How to Read the Structural Intelligence Debate Tree
 
 > **Core Definition (Think Tank Winner):** Structural Intelligence is the capacity across any level of intelligence to create, design, engineer, and reverse engineer structure across any proximity and at infinite scope beyond today's vantage points.
@@ -8,13 +10,11 @@
 
 ## Overview
 
-The **Structural Intelligence Definition — Debate Tree** shows how competing framings and discussions around *Structural Intelligence* are filtered down to a single, clear **Core Definition**. Instead of letting narrow tools, broad philosophical claims, or one-sided actions blur what Structural Intelligence actually is, the Debate Tree separates **how people talk about it** or **how they use it** from **the underlying capacity that defines it**.
+The **Structural Intelligence Definition — Debate Tree** shows how competing framings and discussions around *Structural Intelligence* are filtered down to a single, clear **Core Definition**. Instead of letting narrow tools, overly broad or incomplete claims, or one-sided actions blur what Structural Intelligence actually is, the Debate Tree separates **how people talk about it** or **how they use it** from **the underlying capacity that defines it**.
 
 ---
 
 ## Visual Reference & ASCII Map
-
-
 
 ### ASCII Structure Map
 
@@ -28,27 +28,26 @@ The **Structural Intelligence Definition — Debate Tree** shows how competing f
                                       │
         ┌─────────────────────────────┼─────────────────────────────┐
         ▼                             ▼                             ▼
-[1. NARROW DOMAIN ANGLES]     [2. OVER-BROAD / META CLAIMS]  [3. CORE CAPACITY & SCOPE]
- • Engineering / BIM Only      • "Architecture of Everything" • Variable Intelligence Level
- • Digital Twin / Telemetry    • Unanchored Metaphysics       • Create, Design, Engineer,
- • AI / Control Architecture   • Single-Verb Bias               Reverse Engineer
+[1. NARROW DOMAIN ANGLES]   [2. OVER-BROAD / INCOMPLETE CLAIMS]  [3. CORE CAPACITY & SCOPE]
+ • Engineering / BIM Only      • "Architecture of Everything"     • Variable Intelligence Level
+ • Digital Twin / Telemetry    • Unanchored Metaphysics           • Create, Design, Engineer,
+ • AI / Control Architecture   • Single-Verb Bias                   Reverse Engineer
         │                             │                             │
         ▼                             ▼                             ▼
 [RECLASSIFIED AS SUB-LAYERS]  [SEPARATED INTO DOCTRINE]      [SURVIVING CORE]
- • Kept as domain examples     • Kept in Origin / Doctrine    • Proximity-neutral
-   or applied divisions          and Tree #1–#3 models         • Infinite scope beyond
-                                                                today's vantage points
-                                                                      │
-                                                                      ▼
-                     =======================================
-                     CORE DEFINITION (THINK TANK WINNER)
-                     Structural Intelligence is the capacity
-                     across any level of intelligence to
-                     create, design, engineer, and reverse
-                     engineer structure across any proximity
-                     and at infinite scope beyond today's
-                     vantage points.
-                     =======================================
+ • Kept as domain examples     • Kept in Origin / Doctrine        • Proximity-neutral
+   or applied divisions          and Tree #1–#3 models             • Infinite scope beyond
+        │                             │                             today's vantage points
+        │                             │                                   │
+        └────────────────────┐        │        ┌────────────────────────┘
+                             ▼        ▼        ▼
+           ===========================================================
+                       CORE DEFINITION (THINK TANK WINNER)
+             Structural Intelligence is the capacity across any level
+             of intelligence to create, design, engineer, and reverse
+             engineer structure across any proximity and at infinite
+             scope beyond today's vantage points.
+           ===========================================================
 ```
 
 ---
@@ -62,9 +61,9 @@ Read the Debate Tree from **top to bottom** across the three upper branches, dow
 * **How to Read It:** These are real, high-value applications of structure, not the full definition of Structural Intelligence itself. Treating any single domain or software category as the whole definition narrows the concept too far.
 * **Routing Rule:** Reclassified as **Sub-Layers**—kept as concrete domain examples, diagnostic toolkits, or applied divisions rather than replacing the universal definition.
 
-### 2. Over-Broad / Meta Claims → Separated into Doctrine
+### 2. Over-Broad / Incomplete Claims → Separated into Doctrine
 * **What You See:** *Architecture of Everything*, *Unanchored Metaphysics*, and *Single-Verb Bias*.
-* **How to Read It:** Sweeping catchphrases or unanchored meta-claims can sound grand while leaving the operational mechanics vague, and focusing on only one action verb misses the full range of structural work.
+* **How to Read It:** Sweeping catchphrases or unanchored meta-claims can sound grand while leaving the operational mechanics vague, and focusing on only one action verb leaves out essential structural work—whether over-extending the label or cutting the lifecycle short.
 * **Routing Rule:** Separated into **Doctrine**—housed in Origin doctrine, foundational principles, and the Structural Intelligence Trees (`Tree #1–#3` and broader Forest models) rather than standing in for a crisp core definition.
 
 ### 3. Core Capacity & Scope → Surviving Core
@@ -82,7 +81,7 @@ Read the Debate Tree from **top to bottom** across the three upper branches, dow
 | Branch / Zone | What It Represents | Where It Goes in the Ecosystem |
 | :--- | :--- | :--- |
 | **1. Narrow Domain Angles** | Specific technical or operational slices (*Engineering / BIM*, *Telemetry*, *AI / Control*) | **Sub-Layers:** Domain examples, toolkits, and applied divisions |
-| **2. Over-Broad / Meta Claims** | Sweeping labels, unanchored meta-framing, or single-verb bias | **Doctrine:** Origin, foundational principles, and Trees `#1–#3` |
+| **2. Over-Broad / Incomplete Claims** | Sweeping labels, unanchored meta-framing, or single-verb bias | **Doctrine:** Origin, foundational principles, and Trees `#1–#3` |
 | **3. Core Capacity & Scope** | Multi-level intelligence capacity, four-verb balance, proximity neutrality, infinite scope | **Surviving Core:** Feeds the central definition |
 | **Core Definition Plaque** | Consolidated **Think Tank Winner** statement | **Anchor Definition:** Baseline across the framework |
 
